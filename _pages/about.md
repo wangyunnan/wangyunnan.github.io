@@ -37,6 +37,7 @@ My research interests include computer vision, semantic segmentation, un-/semi-s
 
 
 # 📝 Publications 
+**Equal contribution**$^\star$
 
 <div class='paper-box'><div class='paper-box-image'><div><div class="badge">NeurlPS 2024</div><img src='images/500x300.png' alt="sym" width="80%"></div></div>
 <div class='paper-box-text' markdown="1">
@@ -120,7 +121,7 @@ Submitted to IEEE Transactions on Circuits and Systems for Video Technology (TCS
 
 -Exploring Contrastive Pre-training for Domain Connections in Medical Image Segmentation
 
-Zequn Zhang*, Yun Jiang*, **Yunnan Wang**, Baao Xie, Wenyao Zhang, Yuhang Li, Zhen Chen, Xin Jin, Wenjun Zeng
+Zequn Zhang$^\star$, Yun Jiang$^\star$, **Yunnan Wang**, Baao Xie, Wenyao Zhang, Yuhang Li, Zhen Chen, Xin Jin, Wenjun Zeng
 
 IEEE Transactions on Medical Imaging (TMI), under review
 
