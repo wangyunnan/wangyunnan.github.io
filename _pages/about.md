@@ -42,7 +42,7 @@ My research interests include computer vision, semantic segmentation, un-/semi-s
 # 📝 Publications 
 **Equal contribution**$^\star$
 
-<div class='paper-box'><div class='paper-box-image'><div><div class="badge">NeurlPS 2024</div><img src='images/500x300.png' alt="sym" width="80%"></div></div>
+<div class='paper-box'><div class='paper-box-image'><div><div class="badge">NeurlPS 2024</div><img src='images/nips-disco.png' alt="sym" width="80%"></div></div>
 <div class='paper-box-text' markdown="1">
 
 **Scene Graph Disentanglement and Composition for Generalizable Complex Image Generation**
