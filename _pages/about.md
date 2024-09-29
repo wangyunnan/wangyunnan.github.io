@@ -58,7 +58,7 @@ My research interests include computer vision, semantic segmentation, un-/semi-s
 
 
 
-<div class='paper-box'><div class='paper-box-image'><div><div class="badge">NeurlPS 2024</div><img src='images/nips-gem.png' alt="sym" width="80%"></div></div>
+<div class='paper-box'><div class='paper-box-image'><div><div class="badge">NeurlPS 2024</div><img src='images/nips-gem2.png' alt="sym" width="80%"></div></div>
 <div class='paper-box-text' markdown="1">
 
 **Graph-based Unsupervised Disentangled Representation Learning via Multimodal Large Language Models**
