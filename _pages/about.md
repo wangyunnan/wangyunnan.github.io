@@ -33,6 +33,7 @@ My research interests include computer vision, semantic segmentation, un-/semi-s
 - *2023.05*: &nbsp;🎉🎉 Shanghai Jiao Tong University officially released a news about me. ([website](https://news.sjtu.edu.cn/zhxw/20230517/182978.html)).
 - *2023.03*: &nbsp;🎉🎉 I will continue to pursue my Ph.D. degree at Shanghai Jiao Tong University.
 - *2023.03*: &nbsp;🎉🎉 I graduated with the **highest honors** from Shanghai Jiao Tong University. 
+- *2022.05*: &nbsp;🎉🎉 One paper was accepted by IROS 2022 (<span style="color:red">**Top Robotics Conference, CCF-C**</span>)~
 <!-- ([website](https://news.sjtu.edu.cn/jdyw/20230326/180376.html)) ([video](https://v.sjtu.edu.cn/reports/report2-2170.html)) -->
 
 
@@ -66,7 +67,8 @@ My research interests include computer vision, semantic segmentation, un-/semi-s
 - *2019.11* Wu Yajun Scholarship (NWPU)
 - *2018.10* **National Scholarship** for Undergraduate Students (*Top 1%* in NWPU)
 - *2017.10* Guangdong-Hong Kong-Macao Scholarship (NWPU)
-
+- *2015.9* The Second Prize of Chinese Physics Olympiad
+- *2015.9* The Third Prize of Chinese Mathematical Olympiad
 
 <!-- # 💬 Invited Talks
 - *2021.06*, Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet. 
