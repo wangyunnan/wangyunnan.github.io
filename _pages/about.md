@@ -46,16 +46,33 @@ Scene Graph Disentanglement and Composition for Generalizable Complex Image Gene
 
 **Yunnan Wang**, Ziqiang Li, Zequn Zhang, Wenyao Zhang, Baao Xie, Xihui Liu, Wenjun Zeng, Xin Jin
 
-NeurIPS, 2023
+Annual Conference on Neural Information Processing Systems (NeurIPS 2024, <span style="color:red">**Spotlight**</span>)
 
-[**Project**](https://scholar.google.com/citations?view_op=view_citation&hl=zh-CN&user=DhtAFkwAAAAJ&citation_for_view=DhtAFkwAAAAJ:ALROH1vI_8AC)/[**Arxiv**](https://scholar.google.com/citations?view_op=view_citation&hl=zh-CN&user=DhtAFkwAAAAJ&citation_for_view=DhtAFkwAAAAJ:ALROH1vI_8AC)/[**Code**](https://scholar.google.com/citations?view_op=view_citation&hl=zh-CN&user=DhtAFkwAAAAJ&citation_for_view=DhtAFkwAAAAJ:ALROH1vI_8AC)
+[**Project**](https://neurips.cc/virtual/2024/poster/92965)/[**Arxiv**](https://neurips.cc/virtual/2024/poster/92965)/[**Code**](https://neurips.cc/virtual/2024/poster/92965)
+
+
+
+Graph-based Unsupervised Disentangled Representation Learning via Multimodal Large Language Models
+
+Baao Xie, Qiuyu Chen,**Yunnan Wang**, Zequn Zhang, Xin Jin, Wenjun Zeng 
+
+Annual Conference on Neural Information Processing Systems (NeurIPS 2024)
+
+[**Project**](https://neurips.cc/virtual/2024/poster/94595)/[**Arxiv**](https://arxiv.org/html/2407.18999v1)/[**Code**](https://scholar.google.com/citations?view_op=view_citation&hl=zh-CN&user=DhtAFkwAAAAJ&citation_for_view=DhtAFkwAAAAJ:ALROH1vI_8AC)
+
+
+Consistency Prior Matters: Biomedical-Prompting Dual Augmentation for Domain Adaptive Medical Image Segmentation
+
+**Yunnan Wang**, Zequn Zhang, Xin Jin, Wenjun Zeng
+
+IEEE International Conference on Bioinformatics and Biomedicine (BIBM 2024, <span style="color:red">**Oral**</span>)
 
 <!-- [**Project**](https://scholar.google.com/citations?view_op=view_citation&hl=zh-CN&user=DhtAFkwAAAAJ&citation_for_view=DhtAFkwAAAAJ:ALROH1vI_8AC) <strong><span class='show_paper_citations' data='DhtAFkwAAAAJ:ALROH1vI_8AC'></span></strong>
 - Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet. 
 </div>
 </div> -->
 
-- [Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet](https://github.com), A, B, C, **CVPR 2020**
+<!-- - [Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet](https://github.com), A, B, C, **CVPR 2020** -->
 
 
 # 📖 Educations
