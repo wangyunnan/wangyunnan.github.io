@@ -132,7 +132,7 @@ Bilateral Knowledge Distillation for Unsupervised Domain Adaptation of Semantic 
   - Yifeng Gou, Ziqiang Li, Junyin Zhang, **Yunnan Wang**, Yongxin Ge
   - *Knowledge-based Systems (KBS), under review*
 
-- Coarse-to-Fine Monocular Depth Estimation with Text Alignment and Pose Disentanglement
+- **Coarse-to-Fine Monocular Depth Estimation with Text Alignment and Pose Disentanglement**
   - Wenyao Zhang, Bohan Li, **Yunnan Wang**, Shengyang Zhao, Xin Jin, Wenjun Zeng
 
 
