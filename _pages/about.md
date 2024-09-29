@@ -19,12 +19,21 @@ redirect_from:
 
 Currently, I am a first-year Ph.D. student at [Artificial Intelligence Institute](https://ai.sjtu.edu.cn/), Shanghai Jiao Tong University, under the supervison of Prof. [Xiaokang Yang (杨小康)](https://scholar.google.com.hk/citations?hl=zh-CN&user=yDEavdMAAAAJ). Meanwhile, I am now a research intern at [Eastern Institute for Advanced Study](https://www.eias.ac.cn/) (co-supervised by Prof. [Kevin Zeng (曾文军)](https://scholar.google.com.hk/citations?hl=zh-CN&user=_cUfvYQAAAAJ) and Prof. [Xin Jin (金鑫)](https://scholar.google.com/citations?user=byaSC-kAAAAJ&hl=zh-CN)) and [Ant Research](https://www.antgroup.com/en/technology/) <img src='./images/ant_logo.png' style='height: 1em;'> (supervised by Dr. [Kecheng Zheng (郑可成)](https://scholar.google.com/citations?user=hMDQifQAAAAJ)). Before that, I received my M.S. degree from Shanghai Jiao Tong University in 2023 and my B.S. degree from Northwestern Polytechnical University in 2020. Besides, I also had a great time interning at 2012 Lab of [Huawei](https://www.huawei.com/en/) <img src='./images/huawei_logo.png' style='height: 1em;'> and Applied Machine Learning of [ByteDance](https://www.bytedance.com/en/) <img src='./images/bytedance_log.png' style='height: 1em;'>.
 
+My research interests include computer vision, semantic segmentation, un-/semi-supervised learning from 2019, and AI Generated Content (AIGC) and multi-modal learning from 2023.
+
 <!-- My research interest includes neural machine translation and computer vision. I have published more than 100 papers at the top international AI conferences with total <a href='https://scholar.google.com/citations?user=DhtAFkwAAAAJ'>google scholar citations <strong><span id='total_cit'>260000+</span></strong></a> (You can also use google scholar badge <a href='https://scholar.google.com/citations?user=DhtAFkwAAAAJ'><img src="https://img.shields.io/endpoint?url={{ url | url_encode }}&logo=Google%20Scholar&labelColor=f6f6f6&color=9cf&style=flat&label=citations"></a>). -->
 
 
 # 🔥 News
-- *2022.02*: &nbsp;🎉🎉 Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet. 
-- *2022.02*: &nbsp;🎉🎉 Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet. 
+- *2024.08*: &nbsp;🎉🎉 Two paper (with one Spotlight) was accepted by NeurlPS 2024 (CCF-A)~
+- *2024.08*: &nbsp;🎉🎉 One paper was accepted by BIBM 2024 (CCF-B)~
+- *2024.07*: &nbsp;🎉🎉 I joined Interaction Intelligence Lab, [Ant Research](https://www.antgroup.com/en/technology/) as a research intern.
+- *2024.04*: &nbsp;🎉🎉 One paper was accepted by IJCAI 2024 (CCF-A)~
+- *2023.09*: &nbsp;🎉🎉 I joined [Eastern Institute for Advanced Study](https://www.eias.ac.cn/) as a research intern.
+- *2023.05*: &nbsp;🎉🎉 Shanghai Jiao Tong University officially released a news about me. ([website](https://news.sjtu.edu.cn/zhxw/20230517/182978.html)).
+- *2023.03*: &nbsp;🎉🎉 I will continue to pursue my Ph.D. degree at Shanghai Jiao Tong University.
+- *2023.03*: &nbsp;🎉🎉 I graduated with the *highest honors* from Shanghai Jiao Tong University. ([website](https://news.sjtu.edu.cn/jdyw/20230326/180376.html)) ([video](https://v.sjtu.edu.cn/reports/report2-2170.html))
+
 
 # 📝 Publications 
 
