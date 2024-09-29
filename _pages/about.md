@@ -67,6 +67,18 @@ Consistency Prior Matters: Biomedical-Prompting Dual Augmentation for Domain Ada
 
 IEEE International Conference on Bioinformatics and Biomedicine (BIBM 2024, <span style="color:red">**Oral**</span>)
 
+[**Project**](https://www.ijcai.org/proceedings/2024/107)/[**Arxiv**](https://arxiv.org/abs/2303.13959)/[**Code**](https://github.com/Arlo0o/StereoScene)
+
+
+Bridging Stereo Geometry and BEV Representation with Reliable Mutual Interaction for Semantic Scene Completion
+
+Bohan Li, Yasheng Sun, Zhujin Liang, Dalong Du, Zhuanghui Zhang, Xiaofeng Wang, **Yunnan Wang**, Xin Jin, Wenjun Zeng
+
+International Joint Conference on Artificial Intelligence (IJCAI 2024)
+
+[**Project**](https://www.ijcai.org/proceedings/2024/107)/[**Arxiv**](https://arxiv.org/abs/2303.13959)/[**Code**](https://github.com/Arlo0o/StereoScene)
+
+
 <!-- [**Project**](https://scholar.google.com/citations?view_op=view_citation&hl=zh-CN&user=DhtAFkwAAAAJ&citation_for_view=DhtAFkwAAAAJ:ALROH1vI_8AC) <strong><span class='show_paper_citations' data='DhtAFkwAAAAJ:ALROH1vI_8AC'></span></strong>
 - Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet. 
 </div>
@@ -95,5 +107,5 @@ IEEE International Conference on Bioinformatics and Biomedicine (BIBM 2024, <spa
 - *2021.06*, Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet. 
 - *2021.03*, Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet.  \| [\[video\]](https://github.com/) -->
 
-# 💻 Internships
-- *2019.05 - 2020.02*, [Lorem](https://github.com/), China.
+<!-- # 💻 Internships
+- *2019.05 - 2020.02*, [Lorem](https://github.com/), China. -->
