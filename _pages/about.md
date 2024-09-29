@@ -72,7 +72,7 @@ Baao Xie, Qiuyu Chen,**Yunnan Wang**, Zequn Zhang, Xin Jin, Wenjun Zeng
 </div>
 
 
-<div class='paper-box'><div class='paper-box-image'><div><div class="badge">BIBM 2024</div><img src='images/500x300.png' alt="sym" width="80%"></div></div>
+<div class='paper-box'><div class='paper-box-image'><div><div class="badge">BIBM 2024</div><img src='images/bibm.png' alt="sym" width="80%"></div></div>
 <div class='paper-box-text' markdown="1">
 
 **Consistency Prior Matters: Biomedical-Prompting Dual Augmentation for Domain Adaptive Medical Image Segmentation**
@@ -107,7 +107,8 @@ Bohan Li, Yasheng Sun, Zhujin Liang, Dalong Du, Zhuanghui Zhang, Xiaofeng Wang, 
 
 <div class='paper-box'><div class='paper-box-image'><div><div class="badge">IROS 2022</div><img src='images/500x300.png' alt="sym" width="80%"></div></div>
 <div class='paper-box-text' markdown="1">
-Bilateral Knowledge Distillation for Unsupervised Domain Adaptation of Semantic Segmentation
+
+**Bilateral Knowledge Distillation for Unsupervised Domain Adaptation of Semantic Segmentation**
 
 **Yunnan Wang**, Jianxun Li
 
