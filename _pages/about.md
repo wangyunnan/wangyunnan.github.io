@@ -96,7 +96,8 @@ Bridging Stereo Geometry and BEV Representation with Reliable Mutual Interaction
 
 Bohan Li, Yasheng Sun, Zhujin Liang, Dalong Du, Zhuanghui Zhang, Xiaofeng Wang, **Yunnan Wang**, Xin Jin, Wenjun Zeng
 
-International Joint Conference on Artificial Intelligence (IJCAI 2024)
+<em><font color="#663399"><strong>International Joint Conference on Artificial Intelligence (IJCAI 2024).</strong></font></em>
+
 
 [**Project**](https://www.ijcai.org/proceedings/2024/107)/[**Arxiv**](https://arxiv.org/abs/2303.13959)/[**Code**](https://github.com/Arlo0o/StereoScene)
 </div>
@@ -110,7 +111,8 @@ Bilateral Knowledge Distillation for Unsupervised Domain Adaptation of Semantic 
 
 **Yunnan Wang**, Jianxun Li
 
-IEEE/RSJ International Conference on Intelligent Robots and System (IROS 2022)
+<em><font color="#663399"><strong>IEEE/RSJ International Conference on Intelligent Robots and System (IROS 2022).</strong></font></em>
+
 [**Project**](https://ieeexplore.ieee.org/abstract/document/9981567)/[**Arxiv**](https://ieeexplore.ieee.org/abstract/document/9981567)/[**Code**](https://github.com/Arlo0o/StereoScene)
 </div>
 </div>
