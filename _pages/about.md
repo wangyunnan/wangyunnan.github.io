@@ -45,13 +45,13 @@ My research interests include computer vision, semantic segmentation, un-/semi-s
 <div class='paper-box'><div class='paper-box-image'><div><div class="badge">NeurlPS 2024</div><img src='images/500x300.png' alt="sym" width="80%"></div></div>
 <div class='paper-box-text' markdown="1">
 
-Scene Graph Disentanglement and Composition for Generalizable Complex Image Generation
+**Scene Graph Disentanglement and Composition for Generalizable Complex Image Generation**
 
 **Yunnan Wang**, Ziqiang Li, Zequn Zhang, Wenyao Zhang, Baao Xie, Xihui Liu, Wenjun Zeng, Xin Jin
 
 
-<em><font color="#663399"><strong>Annual Conference on Neural Information Processing Systems (NeurIPS 2024)</strong></font></em></em>
-Annual Conference on Neural Information Processing Systems (NeurIPS 2024), <span style="color:red">**Spotlight**</span>
+<em><font color="#663399"><strong>*Annual Conference on Neural Information Processing Systems (NeurIPS 2024)*</strong></font></em> 
+Annual Conference on Neural Information Processing Systems (NeurIPS 2024), <span style="color:#663399">**Spotlight**</span>
 
 [**Project**](https://neurips.cc/virtual/2024/poster/92965)/[**Arxiv**](https://neurips.cc/virtual/2024/poster/92965)/[**Code**](https://neurips.cc/virtual/2024/poster/92965)
 </div>
