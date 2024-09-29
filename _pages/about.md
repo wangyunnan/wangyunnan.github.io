@@ -30,7 +30,7 @@ My research interests include computer vision, semantic segmentation, un-/semi-s
 - *2024.08*: &nbsp;🎉🎉 Two paper (with one **Spotlight**) was accepted by NeurlPS 2024 (<span style="color:red">**CCF-A**</span>)~
 - *2024.08*: &nbsp;🎉🎉 One paper was accepted by BIBM 2024 (<span style="color:red">**CCF-B**</span>)~
 - *2024.07*: &nbsp;🎉🎉 I joined Interaction Intelligence Lab, [Ant Research](https://www.antgroup.com/en/technology/) as a research intern.
-- *2024.04*: &nbsp;🎉🎉 Congratulations to Prof. Kevin Zeng on his election as the **International Fellow of the Canadian Academy of Engineering**. ([website](https://www.eitech.edu.cn/?p=2500)).
+- *2024.04*: &nbsp;🎉🎉 Congratulations to Prof. Kevin Zeng on his election as the **Fellow of the Canadian Academy of Engineering**. ([website](https://www.eitech.edu.cn/?p=2500)).
 - *2024.04*: &nbsp;🎉🎉 One paper was accepted by IJCAI 2024 (<span style="color:red">**CCF-A**</span>)~
 - *2023.09*: &nbsp;🎉🎉 I joined [Eastern Institute for Advanced Study](https://www.eias.ac.cn/) as a research intern.
 - *2023.05*: &nbsp;🎉🎉 Shanghai Jiao Tong University officially released a news about me. ([website](https://news.sjtu.edu.cn/zhxw/20230517/182978.html)).
@@ -49,8 +49,7 @@ My research interests include computer vision, semantic segmentation, un-/semi-s
 
 **Yunnan Wang**, Ziqiang Li, Zequn Zhang, Wenyao Zhang, Baao Xie, Xihui Liu, Wenjun Zeng, Xin Jin
 
-<em><font color="#663399"><strong>Annual Conference on Neural Information Processing Systems (NeurIPS 2024).</strong></font></em> <span style="color:red">*Spotlight*.</span>
-
+<em><font color="#663399"><strong>Annual Conference on Neural Information Processing Systems (NeurIPS 2024).</strong></font></em> 
 <em><font color="red"><strong>Spotlight.</strong></font></em>
 
 [**Project**](https://neurips.cc/virtual/2024/poster/92965)/[**Arxiv**](https://neurips.cc/virtual/2024/poster/92965)/[**Code**](https://neurips.cc/virtual/2024/poster/92965)
@@ -66,7 +65,7 @@ Graph-based Unsupervised Disentangled Representation Learning via Multimodal Lar
 
 Baao Xie, Qiuyu Chen,**Yunnan Wang**, Zequn Zhang, Xin Jin, Wenjun Zeng 
 
-Annual Conference on Neural Information Processing Systems (NeurIPS 2024)
+<em><font color="#663399"><strong>Annual Conference on Neural Information Processing Systems (NeurIPS 2024).</strong></font></em> 
 
 [**Project**](https://neurips.cc/virtual/2024/poster/94595)/[**Arxiv**](https://arxiv.org/html/2407.18999v1)/[**Code**](https://scholar.google.com/citations?view_op=view_citation&hl=zh-CN&user=DhtAFkwAAAAJ&citation_for_view=DhtAFkwAAAAJ:ALROH1vI_8AC)
 </div>
@@ -80,7 +79,9 @@ Consistency Prior Matters: Biomedical-Prompting Dual Augmentation for Domain Ada
 
 **Yunnan Wang**, Zequn Zhang, Xin Jin, Wenjun Zeng
 
-IEEE International Conference on Bioinformatics and Biomedicine (BIBM 2024)<span style="color:red">**Oral Presentation**</span>
+
+<em><font color="#663399"><strong>IEEE International Conference on Bioinformatics and Biomedicine (BIBM 2024).</strong></font></em> 
+<em><font color="red"><strong>Oral Presentation.</strong></font></em>
 
 [**Project**](https://www.ijcai.org/proceedings/2024/107)/[**Arxiv**](https://arxiv.org/abs/2303.13959)/[**Code**](https://github.com/Arlo0o/StereoScene)
 </div>
