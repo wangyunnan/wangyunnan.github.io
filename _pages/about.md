@@ -110,7 +110,7 @@ Bohan Li, Yasheng Sun, Zhujin Liang, Dalong Du, Zhuanghui Zhang, Xiaofeng Wang, 
 
 **Bilateral Knowledge Distillation for Unsupervised Domain Adaptation of Semantic Segmentation**
 
-**Yunnan Wang1**, Jianxun Li
+**Yunnan Wang**, Jianxun Li
 
 <em><font color="#663399"><strong>IEEE/RSJ International Conference on Intelligent Robots and System (IROS 2022).</strong></font></em>
 
