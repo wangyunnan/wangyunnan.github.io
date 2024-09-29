@@ -172,7 +172,7 @@ Bilateral Knowledge Distillation for Unsupervised Domain Adaptation of Semantic 
 
 # 🎖 Honors and Awards
 - *2023.03* Excellent Graduate of Shanghai (*Top 3%* in SJTU)
-- *2022.09* CETC Rice Scholarship (SJTU)
+- *2022.09* CETC Les Scholarship (SJTU)
 - *2021.10* **National Scholarship** for Graduate Students (*Top 3%* in SJTU)
 - *2020.06* Excellent Graduate of Shaanxi Province(*Top 3%* in NWPU)
 - *2019.11* Wu Yajun Scholarship (NWPU)
