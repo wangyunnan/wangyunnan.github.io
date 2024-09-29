@@ -51,7 +51,7 @@ My research interests include computer vision, semantic segmentation, un-/semi-s
 
 
 <em><font color="#663399"><strong>*Annual Conference on Neural Information Processing Systems (NeurIPS 2024)*</strong></font></em> 
-Annual Conference on Neural Information Processing Systems (NeurIPS 2024), <span style="color:#663399">**Spotlight**</span>
+Annual Conference on Neural Information Processing Systems (NeurIPS 2024), <span style="color:#663399">*Spotlight*</span>
 
 [**Project**](https://neurips.cc/virtual/2024/poster/92965)/[**Arxiv**](https://neurips.cc/virtual/2024/poster/92965)/[**Code**](https://neurips.cc/virtual/2024/poster/92965)
 </div>
