@@ -39,7 +39,7 @@ My research interests include computer vision, semantic segmentation, un-/semi-s
 
 # 📝 Publications 
 
-<div class='paper-box'><div class='paper-box-image'><div><div class="badge">CVPR 2016</div><img src='images/500x300.png' alt="sym" width="80%"></div></div>
+<div class='paper-box'><div class='paper-box-image'><div><div class="badge">NeurlPS 2024</div><img src='images/500x300.png' alt="sym" width="80%"></div></div>
 <div class='paper-box-text' markdown="1">
 
 Scene Graph Disentanglement and Composition for Generalizable Complex Image Generation
@@ -50,7 +50,8 @@ Annual Conference on Neural Information Processing Systems (NeurIPS 2024, <span 
 
 [**Project**](https://neurips.cc/virtual/2024/poster/92965)/[**Arxiv**](https://neurips.cc/virtual/2024/poster/92965)/[**Code**](https://neurips.cc/virtual/2024/poster/92965)
 
-
+<div class='paper-box'><div class='paper-box-image'><div><div class="badge">NeurlPS 2024</div><img src='images/500x300.png' alt="sym" width="80%"></div></div>
+<div class='paper-box-text' markdown="1">
 
 Graph-based Unsupervised Disentangled Representation Learning via Multimodal Large Language Models
 
@@ -60,6 +61,8 @@ Annual Conference on Neural Information Processing Systems (NeurIPS 2024)
 
 [**Project**](https://neurips.cc/virtual/2024/poster/94595)/[**Arxiv**](https://arxiv.org/html/2407.18999v1)/[**Code**](https://scholar.google.com/citations?view_op=view_citation&hl=zh-CN&user=DhtAFkwAAAAJ&citation_for_view=DhtAFkwAAAAJ:ALROH1vI_8AC)
 
+<div class='paper-box'><div class='paper-box-image'><div><div class="badge">BIBM 2024</div><img src='images/500x300.png' alt="sym" width="80%"></div></div>
+<div class='paper-box-text' markdown="1">
 
 Consistency Prior Matters: Biomedical-Prompting Dual Augmentation for Domain Adaptive Medical Image Segmentation
 
@@ -70,6 +73,9 @@ IEEE International Conference on Bioinformatics and Biomedicine (BIBM 2024, <spa
 [**Project**](https://www.ijcai.org/proceedings/2024/107)/[**Arxiv**](https://arxiv.org/abs/2303.13959)/[**Code**](https://github.com/Arlo0o/StereoScene)
 
 
+<div class='paper-box'><div class='paper-box-image'><div><div class="badge">IJCAI 2024</div><img src='images/500x300.png' alt="sym" width="80%"></div></div>
+<div class='paper-box-text' markdown="1">
+
 Bridging Stereo Geometry and BEV Representation with Reliable Mutual Interaction for Semantic Scene Completion
 
 Bohan Li, Yasheng Sun, Zhujin Liang, Dalong Du, Zhuanghui Zhang, Xiaofeng Wang, **Yunnan Wang**, Xin Jin, Wenjun Zeng
@@ -77,6 +83,16 @@ Bohan Li, Yasheng Sun, Zhujin Liang, Dalong Du, Zhuanghui Zhang, Xiaofeng Wang, 
 International Joint Conference on Artificial Intelligence (IJCAI 2024)
 
 [**Project**](https://www.ijcai.org/proceedings/2024/107)/[**Arxiv**](https://arxiv.org/abs/2303.13959)/[**Code**](https://github.com/Arlo0o/StereoScene)
+
+<div class='paper-box'><div class='paper-box-image'><div><div class="badge">IROS 2022</div><img src='images/500x300.png' alt="sym" width="80%"></div></div>
+<div class='paper-box-text' markdown="1">
+Bilateral Knowledge Distillation for Unsupervised Domain Adaptation of Semantic Segmentation
+
+**Yunnan Wang**, Jianxun Li
+
+IEEE/RSJ International Conference on Intelligent Robots and System (IROS 2022)
+
+[**Project**](https://ieeexplore.ieee.org/abstract/document/9981567)/[**Arxiv**](https://ieeexplore.ieee.org/abstract/document/9981567)/[**Code**](https://github.com/Arlo0o/StereoScene)
 
 
 <!-- [**Project**](https://scholar.google.com/citations?view_op=view_citation&hl=zh-CN&user=DhtAFkwAAAAJ&citation_for_view=DhtAFkwAAAAJ:ALROH1vI_8AC) <strong><span class='show_paper_citations' data='DhtAFkwAAAAJ:ALROH1vI_8AC'></span></strong>
