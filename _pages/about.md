@@ -124,11 +124,11 @@ Bilateral Knowledge Distillation for Unsupervised Domain Adaptation of Semantic 
   - **Yunnan Wang**, Ziqiang Li, Wenyao Zhang, Lexiang Lv, Zequn Zhang, Xiaoyu Shen, Xin Jin, Wenjun Zeng
   - *IEEE Transactions on Circuits and Systems for Video Technology (TCSVT), under review*
 
-- **Exploring Contrastive Pre-training for Domain Connections in Medical Image Segmentation
+- **Exploring Contrastive Pre-training for Domain Connections in Medical Image Segmentation**
   - Zequn Zhang$^\star$, Yun Jiang$^\star$, **Yunnan Wang**, Baao Xie, Wenyao Zhang, Yuhang Li, Zhen Chen, Xin Jin, Wenjun Zeng**
   - *IEEE Transactions on Medical Imaging (TMI), under review*
 
-- Single-Instance Feature Bias Calibrating Learning Base EM for Text-to-Image Person Re-identification
+- **Single-Instance Feature Bias Calibrating Learning Base EM for Text-to-Image Person Re-identification**
   - Yifeng Gou, Ziqiang Li, Junyin Zhang, **Yunnan Wang**, Yongxin Ge
   - *Knowledge-based Systems (KBS), under review*
 
