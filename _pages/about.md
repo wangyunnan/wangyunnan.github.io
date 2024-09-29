@@ -17,7 +17,7 @@ redirect_from:
 
 <span class='anchor' id='about-me'></span>
 
-Currently, I am a first-year Ph.D. student at [Artificial Intelligence Institute](https://ai.sjtu.edu.cn/), Shanghai Jiao Tong University, under the supervison of Prof. [Xiaokang Yang (杨小康)](https://scholar.google.com.hk/citations?hl=zh-CN&user=yDEavdMAAAAJ). Meanwhile, I am now a research intern at [Eastern Institute for Advanced Study](https://www.eias.ac.cn/) <img src='./images/eias_logo.png' style='height: 1em;'> (co-supervised by Prof. [Kevin Zeng (曾文军)](https://scholar.google.com.hk/citations?hl=zh-CN&user=_cUfvYQAAAAJ) and Prof. [Xin Jin (金鑫)](https://scholar.google.com/citations?user=byaSC-kAAAAJ&hl=zh-CN)) and [Ant Research](https://www.antgroup.com/en/technology/) <img src='./images/ant_logo.png' style='height: 1em;'> (supervised by Dr. [Kecheng Zheng (郑可成)](https://scholar.google.com/citations?user=hMDQifQAAAAJ)). Before that, I received my M.S. degree from Shanghai Jiao Tong University in 2023 and my B.S. degree from Northwestern Polytechnical University in 2020. Besides, I also had a great time interning at 2012 Lab of [Huawei](https://www.huawei.com/en/) <img src='./images/huawei_logo.png' style='height: 1em;'> and Applied Machine Learning of [ByteDance](https://www.bytedance.com/en/) <img src='./images/bytedance_log.png' style='height: 1em;'>.
+Currently, I am a first-year Ph.D. student at [Artificial Intelligence Institute](https://ai.sjtu.edu.cn/), Shanghai Jiao Tong University, under the supervison of Prof. [Xiaokang Yang (杨小康)](https://scholar.google.com.hk/citations?hl=zh-CN&user=yDEavdMAAAAJ). Meanwhile, I am now a research intern at [Eastern Institute for Advanced Study](https://www.eias.ac.cn/) <img src='./images/eias_logo.png' style='height: 0.85em;'> (co-supervised by Prof. [Kevin Zeng (曾文军)](https://scholar.google.com.hk/citations?hl=zh-CN&user=_cUfvYQAAAAJ) and Prof. [Xin Jin (金鑫)](https://scholar.google.com/citations?user=byaSC-kAAAAJ&hl=zh-CN)) and [Ant Research](https://www.antgroup.com/en/technology/) <img src='./images/ant_logo.png' style='height: 1em;'> (supervised by Dr. [Kecheng Zheng (郑可成)](https://scholar.google.com/citations?user=hMDQifQAAAAJ)). Before that, I received my M.S. degree from Shanghai Jiao Tong University in 2023 and my B.S. degree from Northwestern Polytechnical University in 2020. Besides, I also had a great time interning at 2012 Lab of [Huawei](https://www.huawei.com/en/) <img src='./images/huawei_logo.png' style='height: 1em;'> and Applied Machine Learning of [ByteDance](https://www.bytedance.com/en/) <img src='./images/bytedance_log.png' style='height: 1em;'>.
 
 My research interests include computer vision, semantic segmentation, un-/semi-supervised learning from 2019, and AI Generated Content (AIGC) and multi-modal learning from 2023.
 
@@ -42,9 +42,9 @@ My research interests include computer vision, semantic segmentation, un-/semi-s
 <div class='paper-box'><div class='paper-box-image'><div><div class="badge">CVPR 2016</div><img src='images/500x300.png' alt="sym" width="80%"></div></div>
 <div class='paper-box-text' markdown="1">
 
-[Deep Residual Learning for Image Recognition](https://openaccess.thecvf.com/content_cvpr_2016/papers/He_Deep_Residual_Learning_CVPR_2016_paper.pdf)
+Scene Graph Disentanglement and Composition for Generalizable Complex Image Generation
 
-**Kaiming He**, Xiangyu Zhang, Shaoqing Ren, Jian Sun
+**Yunnan Wang**, Ziqiang Li, Zequn Zhang, Wenyao Zhang, Baao Xie, Xihui Liu, Wenjun Zeng, Xin Jin
 
 [**Project**](https://scholar.google.com/citations?view_op=view_citation&hl=zh-CN&user=DhtAFkwAAAAJ&citation_for_view=DhtAFkwAAAAJ:ALROH1vI_8AC) <strong><span class='show_paper_citations' data='DhtAFkwAAAAJ:ALROH1vI_8AC'></span></strong>
 - Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet. 
