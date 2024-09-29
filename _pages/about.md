@@ -49,8 +49,9 @@ My research interests include computer vision, semantic segmentation, un-/semi-s
 
 **Yunnan Wang**, Ziqiang Li, Zequn Zhang, Wenyao Zhang, Baao Xie, Xihui Liu, Wenjun Zeng, Xin Jin
 
-
 <em><font color="#663399"><strong>Annual Conference on Neural Information Processing Systems (NeurIPS 2024).</strong></font></em> <span style="color:red">*Spotlight*.</span>
+
+<em><font color="red"><strong>Spotlight.</strong></font></em>
 
 [**Project**](https://neurips.cc/virtual/2024/poster/92965)/[**Arxiv**](https://neurips.cc/virtual/2024/poster/92965)/[**Code**](https://neurips.cc/virtual/2024/poster/92965)
 </div>
