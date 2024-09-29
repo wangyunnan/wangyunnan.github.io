@@ -47,7 +47,7 @@ My research interests include computer vision, semantic segmentation, un-/semi-s
 
 **Scene Graph Disentanglement and Composition for Generalizable Complex Image Generation**
 
-**Yunnan Wang**, Ziqiang Li, Zequn Zhang, Wenyao Zhang, Baao Xie, Xihui Liu, Wenjun Zeng, Xin Jin
+**Yunnan Wang1**, Ziqiang Li, Zequn Zhang, Wenyao Zhang, Baao Xie, Xihui Liu, Wenjun Zeng, Xin Jin
 
 <em><font color="#663399"><strong>Annual Conference on Neural Information Processing Systems (NeurIPS 2024).</strong></font></em> 
 <em><font color="red"><strong>Spotlight.</strong></font></em>
