@@ -36,7 +36,7 @@ My research interests include computer vision, semantic segmentation, un-/semi-s
 - *2023.05*: &nbsp;🎉🎉 Shanghai Jiao Tong University officially released a [news](https://news.sjtu.edu.cn/zhxw/20230517/182978.html) about me.
 - *2023.03*: &nbsp;🎉🎉 I will continue to pursue my Ph.D. degree at Shanghai Jiao Tong University.
 - *2023.03*: &nbsp;🎉🎉 I graduated with the **highest honors** from Shanghai Jiao Tong University. 
-- *2022.05*: &nbsp;🎉🎉 One paper was accepted by IROS 2022 (<span style="color:red">**Top Robotics Conference, CCF-C**</span>)~
+- *2022.05*: &nbsp;🎉🎉 One paper was accepted by IROS 2022 (<span style="color:red">**Top Robotics Conference, CCF-C**</span>)~1
 
 
 # 📝 Publications 
