@@ -61,7 +61,7 @@ My research interests include computer vision, semantic segmentation, un-/semi-s
 <div class='paper-box'><div class='paper-box-image'><div><div class="badge">NeurlPS 2024</div><img src='images/500x300.png' alt="sym" width="80%"></div></div>
 <div class='paper-box-text' markdown="1">
 
-Graph-based Unsupervised Disentangled Representation Learning via Multimodal Large Language Models
+**Graph-based Unsupervised Disentangled Representation Learning via Multimodal Large Language Models**
 
 Baao Xie, Qiuyu Chen,**Yunnan Wang**, Zequn Zhang, Xin Jin, Wenjun Zeng 
 
@@ -75,7 +75,7 @@ Baao Xie, Qiuyu Chen,**Yunnan Wang**, Zequn Zhang, Xin Jin, Wenjun Zeng
 <div class='paper-box'><div class='paper-box-image'><div><div class="badge">BIBM 2024</div><img src='images/500x300.png' alt="sym" width="80%"></div></div>
 <div class='paper-box-text' markdown="1">
 
-Consistency Prior Matters: Biomedical-Prompting Dual Augmentation for Domain Adaptive Medical Image Segmentation
+**Consistency Prior Matters: Biomedical-Prompting Dual Augmentation for Domain Adaptive Medical Image Segmentation**
 
 **Yunnan Wang**, Zequn Zhang, Xin Jin, Wenjun Zeng
 
@@ -92,7 +92,7 @@ Consistency Prior Matters: Biomedical-Prompting Dual Augmentation for Domain Ada
 <div class='paper-box'><div class='paper-box-image'><div><div class="badge">IJCAI 2024</div><img src='images/500x300.png' alt="sym" width="80%"></div></div>
 <div class='paper-box-text' markdown="1">
 
-Bridging Stereo Geometry and BEV Representation with Reliable Mutual Interaction for Semantic Scene Completion
+**Bridging Stereo Geometry and BEV Representation with Reliable Mutual Interaction for Semantic Scene Completion**
 
 Bohan Li, Yasheng Sun, Zhujin Liang, Dalong Du, Zhuanghui Zhang, Xiaofeng Wang, **Yunnan Wang**, Xin Jin, Wenjun Zeng
 
