@@ -52,17 +52,21 @@ My research interests include computer vision, semantic segmentation, un-/semi-s
 
 - [Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet](https://github.com), A, B, C, **CVPR 2020**
 
-# 🎖 Honors and Awards
-- *2021.10* Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet. 
-- *2021.09* Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet. 
 
 # 📖 Educations
-- *2019.06 - 2022.04 (now)*, Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet. 
-- *2015.09 - 2019.06*, Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet.
+- *2023.03 - now*, Ph.D. in Computer Science, Shanghai Jiao Tong University, Shanghai
+- *2020.09 - 2023.03*, M.S. in Automation, Shanghai Jiao Tong University, Shanghai
+- *2016.09 - 2020.09*, B.S. in Automation, Northwestern Polytechnical University (NWPU), Xi'an, Shaanxi
 
-* Ph.D. in Computer Science, Shanghai Jiao Tong University (**SJTU**), 2027 (expected)
-* M.S. in Automation, Shanghai Jiao Tong University (**SJTU**), 2023
-* B.S. in Automation, Northwestern Polytechnical University (**NWPU**), 2020
+# 🎖 Honors and Awards
+- *2023.03* Excellent Graduate of Shanghai (*Top 3%* in SJTU)
+- *2022.09* CETC Rice Scholarship (SJTU)
+- *2021.10* **National Scholarship** for Graduate Students (*Top 3%* in SJTU)
+- *2020.06* Excellent Graduate of Shaanxi Province(*Top 3%* in NWPU)
+- *2019.11* Wu Yajun Scholarship (NWPU)
+- *2018.10* **National Scholarship** for Undergraduate Students (*Top 1%* in NWPU)
+- *2017.10* Guangdong-Hong Kong-Macao Scholarship (NWPU)
+
 
 <!-- # 💬 Invited Talks
 - *2021.06*, Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet. 
