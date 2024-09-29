@@ -108,6 +108,27 @@ IEEE/RSJ International Conference on Intelligent Robots and System (IROS 2022)
 - *2020.09 - 2023.03*, M.S. in Automation, Shanghai Jiao Tong University, Shanghai
 - *2016.09 - 2020.09*, B.S. in Automation, Northwestern Polytechnical University (NWPU), Xi'an, Shaanxi
 
+# 💻 Internships
+- *2024.07 - present*:  Interaction Intelligence Lab, Ant Research, Hangzhou, Zhejiang
+  - Position: Multi-Modal Algorithm Intern
+  - Duty: Multi-Modal Algorithm Research
+  - Supervisor: Dr. [Kecheng Zheng](https://scholar.google.com/citations?user=hMDQifQAAAAJ)
+
+- *2023.09 - present*: College of Information Science and Technology, Eastern Institute for Advanced Study, Ningbo, Zhejiang
+  - Position: Computer Vision Algorithm Intern
+  - Dutiy: AI Generated Content (AIGC) Research
+  - Supervisor: Prof. [Wenjun Zeng](https://scholar.google.com.hk/citations?hl=zh-CN&user=_cUfvYQAAAAJ) and Prof. [Xin Jin](https://scholar.google.com/citations?user=byaSC-kAAAAJ&hl=zh-CN)
+
+* *2022.06 - 2022.10*: Central Media Technology Institute, 2012 Lab, Huawei, Shanghai
+  * Position: Computer Vision Algorithm Intern
+  * Duty: Optical Flow Estimation, Motion Detection, and Lane Detection
+  * Supervisor: Dr. [Jia Cai](https://scholar.google.com.hk/citations?user=gg6nH6QAAAAJ&hl=zh-CN&oi=sra)
+
+* *2022.03 - 2022.06*: Applied Machine Learning (AML), ByteDance, Shanghai
+  * Position: Machine Learning Algorithm Intern
+  * Duties included: Recommendation/Advertising/Search Algorithm Research
+  * Supervisor: Dr. Xiang Li
+
 # 🎖 Honors and Awards
 - *2023.03* Excellent Graduate of Shanghai (*Top 3%* in SJTU)
 - *2022.09* CETC Rice Scholarship (SJTU)
@@ -119,9 +140,7 @@ IEEE/RSJ International Conference on Intelligent Robots and System (IROS 2022)
 - *2015.9* The Second Prize of Chinese Physics Olympiad
 - *2015.9* The Third Prize of Chinese Mathematical Olympiad
 
-<!-- # 💬 Invited Talks
-- *2021.06*, Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet. 
-- *2021.03*, Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet.  \| [\[video\]](https://github.com/) -->
+# 💬 Activities
+- *2020.09 - 2023.03*, Monitor of Master Class B2003292, Shanghai Jiao Tong University.
+- Reviewer: NeurlPS, CVPR, ICCV, ACM MM, TCSVT and TNNLS etc.
 
-<!-- # 💻 Internships
-- *2019.05 - 2020.02*, [Lorem](https://github.com/), China. -->
