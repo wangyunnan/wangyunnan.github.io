@@ -21,7 +21,9 @@ Currently, I am a first-year Ph.D. student at [Artificial Intelligence Institute
 
 My research interests include computer vision, semantic segmentation, un-/semi-supervised learning from 2019, and AI Generated Content (AIGC) and multi-modal learning from 2023.
 
-<!-- My research interest includes neural machine translation and computer vision. I have published more than 100 papers at the top international AI conferences with total <a href='https://scholar.google.com/citations?user=DhtAFkwAAAAJ'>google scholar citations <strong><span id='total_cit'>260000+</span></strong></a> (You can also use google scholar badge <a href='https://scholar.google.com/citations?user=DhtAFkwAAAAJ'><img src="https://img.shields.io/endpoint?url={{ url | url_encode }}&logo=Google%20Scholar&labelColor=f6f6f6&color=9cf&style=flat&label=citations"></a>). -->
+<!-- My research interest includes neural machine translation and computer vision. I have published more than 100 papers at the top international AI conferences with total <a href='https://scholar.google.com/citations?user=DhtAFkwAAAAJ'>google scholar citations <strong><span id='total_cit'>260000+</span></strong></a> (You can also use google scholar badge <a href='https://scholar.google.com/citations?user=DhtAFkwAAAAJ'><img src="https://img.shields.io/endpoint?url={{ url | url_encode }}&logo=Google%20Scholar&labelColor=f6f6f6&color=9cf&style=flat&label=citations"></a>).  
+&nbsp <font color="red"><strong></strong></font>
+--> 
 
 
 # 🔥 News
@@ -48,7 +50,7 @@ Scene Graph Disentanglement and Composition for Generalizable Complex Image Gene
 **Yunnan Wang**, Ziqiang Li, Zequn Zhang, Wenyao Zhang, Baao Xie, Xihui Liu, Wenjun Zeng, Xin Jin
 
 
-<em><font color="#663399"><strong>Annual Conference on Neural Information Processing Systems (NeurIPS 2024)</strong></font></em></em> &nbsp <font color="red"><strong></strong></font>
+<em><font color="#663399"><strong>Annual Conference on Neural Information Processing Systems (NeurIPS 2024)</strong></font></em></em>
 Annual Conference on Neural Information Processing Systems (NeurIPS 2024), <span style="color:red">**Spotlight**</span>
 
 [**Project**](https://neurips.cc/virtual/2024/poster/92965)/[**Arxiv**](https://neurips.cc/virtual/2024/poster/92965)/[**Code**](https://neurips.cc/virtual/2024/poster/92965)
