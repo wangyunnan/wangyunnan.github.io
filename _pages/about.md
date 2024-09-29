@@ -46,7 +46,7 @@ Scene Graph Disentanglement and Composition for Generalizable Complex Image Gene
 
 **Yunnan Wang**, Ziqiang Li, Zequn Zhang, Wenyao Zhang, Baao Xie, Xihui Liu, Wenjun Zeng, Xin Jin
 
-Annual Conference on Neural Information Processing Systems (NeurIPS 2024, <span style="color:red">**Spotlight**</span>)
+Annual Conference on Neural Information Processing Systems (NeurIPS 2024), <span style="color:red">**Spotlight**</span>
 
 [**Project**](https://neurips.cc/virtual/2024/poster/92965)/[**Arxiv**](https://neurips.cc/virtual/2024/poster/92965)/[**Code**](https://neurips.cc/virtual/2024/poster/92965)
 </div>
@@ -68,7 +68,6 @@ Annual Conference on Neural Information Processing Systems (NeurIPS 2024)
 </div>
 
 
-
 <div class='paper-box'><div class='paper-box-image'><div><div class="badge">BIBM 2024</div><img src='images/500x300.png' alt="sym" width="80%"></div></div>
 <div class='paper-box-text' markdown="1">
 
@@ -76,7 +75,7 @@ Consistency Prior Matters: Biomedical-Prompting Dual Augmentation for Domain Ada
 
 **Yunnan Wang**, Zequn Zhang, Xin Jin, Wenjun Zeng
 
-IEEE International Conference on Bioinformatics and Biomedicine (BIBM 2024, <span style="color:red">**Oral**</span>)
+IEEE International Conference on Bioinformatics and Biomedicine (BIBM 2024)<span style="color:red">**Oral Presentation**</span>
 
 [**Project**](https://www.ijcai.org/proceedings/2024/107)/[**Arxiv**](https://arxiv.org/abs/2303.13959)/[**Code**](https://github.com/Arlo0o/StereoScene)
 </div>
