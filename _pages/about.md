@@ -113,25 +113,25 @@ IEEE/RSJ International Conference on Intelligent Robots and System (IROS 2022)
 
 ## Preprint
 
--Canvas: Compositional Generation for Art Painting with Seamless Subject-Driven Infusion
+- Canvas: Compositional Generation for Art Painting with Seamless Subject-Driven Infusion
 
 **Yunnan Wang**, Ziqiang Li, Wenyao Zhang, Lexiang Lv, Zequn Zhang, Xiaoyu Shen, Xin Jin, Wenjun Zeng
 
 Submitted to IEEE Transactions on Circuits and Systems for Video Technology (TCSVT), under review
 
--Exploring Contrastive Pre-training for Domain Connections in Medical Image Segmentation
+- Exploring Contrastive Pre-training for Domain Connections in Medical Image Segmentation
 
 Zequn Zhang$^\star$, Yun Jiang$^\star$, **Yunnan Wang**, Baao Xie, Wenyao Zhang, Yuhang Li, Zhen Chen, Xin Jin, Wenjun Zeng
 
 IEEE Transactions on Medical Imaging (TMI), under review
 
--Single-Instance Feature Bias Calibrating Learning Base EM for Text-to-Image Person Re-identification
+- Single-Instance Feature Bias Calibrating Learning Base EM for Text-to-Image Person Re-identification
 
 Yifeng Gou, Ziqiang Li, Junyin Zhang, **Yunnan Wang**, Yongxin Ge
 
 Knowledge-based Systems (KBS), under review
 
--Coarse-to-Fine Monocular Depth Estimation with Text Alignment and Pose Disentanglement
+- Coarse-to-Fine Monocular Depth Estimation with Text Alignment and Pose Disentanglement
 
 Wenyao Zhang, Bohan Li, **Yunnan Wang**, Shengyang Zhao, Xin Jin, Wenjun Zeng
 
