@@ -34,7 +34,6 @@ My research interests include computer vision, semantic segmentation, un-/semi-s
 - *2023.03*: &nbsp;🎉🎉 I will continue to pursue my Ph.D. degree at Shanghai Jiao Tong University.
 - *2023.03*: &nbsp;🎉🎉 I graduated with the **highest honors** from Shanghai Jiao Tong University. 
 - *2022.05*: &nbsp;🎉🎉 One paper was accepted by IROS 2022 (<span style="color:red">**Top Robotics Conference, CCF-C**</span>)~
-<!-- ([website](https://news.sjtu.edu.cn/jdyw/20230326/180376.html)) ([video](https://v.sjtu.edu.cn/reports/report2-2170.html)) -->
 
 
 # 📝 Publications 
@@ -94,13 +93,40 @@ IEEE/RSJ International Conference on Intelligent Robots and System (IROS 2022)
 
 [**Project**](https://ieeexplore.ieee.org/abstract/document/9981567)/[**Arxiv**](https://ieeexplore.ieee.org/abstract/document/9981567)/[**Code**](https://github.com/Arlo0o/StereoScene)
 
+-Preprint
+
+Canvas: Compositional Generation for Art Painting with Seamless Subject-Driven Infusion
+
+**Wunnan Wang**, Ziqiang Li, Wenyao Zhang, Lexiang Lv, Zequn Zhang, Xiaoyu Shen, Xin Jin, Wenjun Zeng
+
+Submitted to IEEE Transactions on Circuits and Systems for Video Technology (TCSVT)
+
+Canvas: Compositional Generation for Art Painting with Seamless Subject-Driven Infusion
+
+**Wunnan Wang**, Ziqiang Li, Wenyao Zhang, Lexiang Lv, Zequn Zhang, Xiaoyu Shen, Xin Jin, Wenjun Zeng
+
+Submitted to IEEE Transactions on Circuits and Systems for Video Technology (TCSVT)
+
+
+Canvas: Compositional Generation for Art Painting with Seamless Subject-Driven Infusion
+
+**Wunnan Wang**, Ziqiang Li, Wenyao Zhang, Lexiang Lv, Zequn Zhang, Xiaoyu Shen, Xin Jin, Wenjun Zeng
+
+Submitted to IEEE Transactions on Circuits and Systems for Video Technology (TMM)
+
+Canvas: Compositional Generation for Art Painting with Seamless Subject-Driven Infusion
+
+**Wunnan Wang**, Ziqiang Li, Wenyao Zhang, Lexiang Lv, Zequn Zhang, Xiaoyu Shen, Xin Jin, Wenjun Zeng
+
+Submitted to IEEE Transactions on Circuits and Systems for Video Technology (KBS)
+
 
 <!-- [**Project**](https://scholar.google.com/citations?view_op=view_citation&hl=zh-CN&user=DhtAFkwAAAAJ&citation_for_view=DhtAFkwAAAAJ:ALROH1vI_8AC) <strong><span class='show_paper_citations' data='DhtAFkwAAAAJ:ALROH1vI_8AC'></span></strong>
 - Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet. 
 </div>
 </div> -->
 
-<!-- - [Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet](https://github.com), A, B, C, **CVPR 2020** -->
+- [Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet](https://github.com), A, B, C, **CVPR 2020** -->
 
 
 # 📖 Educations
