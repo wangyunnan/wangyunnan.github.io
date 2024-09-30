@@ -17,7 +17,7 @@ redirect_from:
 
 <span class='anchor' id='about-me'></span>
 
-Currently, I am a first-year Ph.D. student at [Artificial Intelligence Institute](https://ai.sjtu.edu.cn/), Shanghai Jiao Tong University, under the supervison of Prof. [Xiaokang Yang (杨小康)](https://scholar.google.com.hk/citations?hl=zh-CN&user=yDEavdMAAAAJ). Meanwhile, I am now a research intern at [Eastern Institute for Advanced Study](https://www.eias.ac.cn/) <img src='./images/eias_logo.png' style='height: 0.85em;'> (co-supervised by Prof. [Kevin Zeng (曾文军)](https://scholar.google.com.hk/citations?hl=zh-CN&user=_cUfvYQAAAAJ) and Prof. [Xin Jin (金鑫)](https://scholar.google.com/citations?user=byaSC-kAAAAJ&hl=zh-CN)) and [Ant Research](https://www.antgroup.com/en/technology/) <img src='./images/alipay_logo.png' style='height: 1em;'> (supervised by Dr. [Kecheng Zheng (郑可成)](https://scholar.google.com/citations?user=hMDQifQAAAAJ)). Before that, I received my M.S. degree from Shanghai Jiao Tong University in 2023 and my B.S. degree from Northwestern Polytechnical University in 2020. Besides, I also had a great time interning at 2012 Lab of [Huawei](https://www.huawei.com/en/) <img src='./images/huawei_logo.png' style='height: 1em;'> and Applied Machine Learning of [ByteDance](https://www.bytedance.com/en/) <img src='./images/bytedance_log.png' style='height: 1em;'>.
+Currently, I am a first-year Ph.D. student at [Artificial Intelligence Institute](https://ai.sjtu.edu.cn/), Shanghai Jiao Tong University, under the supervison of Prof. [Xiaokang Yang (杨小康)](https://scholar.google.com.hk/citations?hl=zh-CN&user=yDEavdMAAAAJ). Meanwhile, I am now a research intern at [Eastern Institute for Advanced Study](https://www.eitech.edu.cn/) <img src='./images/eias_logo.png' style='height: 0.85em;'> (co-supervised by Prof. [Kevin Zeng (曾文军)](https://scholar.google.com.hk/citations?hl=zh-CN&user=_cUfvYQAAAAJ) and Prof. [Xin Jin (金鑫)](https://scholar.google.com/citations?user=byaSC-kAAAAJ&hl=zh-CN)) and [Ant Research](https://www.antgroup.com/en/technology/) <img src='./images/alipay_logo.png' style='height: 1em;'> (supervised by Dr. [Kecheng Zheng (郑可成)](https://scholar.google.com/citations?user=hMDQifQAAAAJ)). Before that, I received my M.S. degree from Shanghai Jiao Tong University in 2023 and my B.S. degree from Northwestern Polytechnical University in 2020. Besides, I also had a great time interning at 2012 Lab of [Huawei](https://www.huawei.com/en/) <img src='./images/huawei_logo.png' style='height: 1em;'> and Applied Machine Learning of [ByteDance](https://www.bytedance.com/en/) <img src='./images/bytedance_log.png' style='height: 1em;'>.
 
 My research interests include computer vision, semantic segmentation, un-/semi-supervised learning from 2019, and AI Generated Content (AIGC) and multi-modal learning from 2023.
 
@@ -32,11 +32,11 @@ My research interests include computer vision, semantic segmentation, un-/semi-s
 - *2024.07*: &nbsp;🎉🎉 I joined Interaction Intelligence Lab, [Ant Research](https://www.antgroup.com/en/technology/) as a research intern.
 - *2024.04*: &nbsp;🎉🎉 Congratulations to Prof. Kevin Zeng on [his election]((https://www.eitech.edu.cn/?p=2500)) as the **International Fellow of the Canadian Academy of Engineering**.
 - *2024.04*: &nbsp;🎉🎉 One paper was accepted by IJCAI 2024 (<span style="color:red">**CCF-A**</span>)~
-- *2023.09*: &nbsp;🎉🎉 I joined [Eastern Institute for Advanced Study](https://www.eias.ac.cn/) as a research intern.
+- *2023.09*: &nbsp;🎉🎉 I joined [Eastern Institute for Advanced Study](https://www.eitech.edu.cn/) as a research intern.
 - *2023.05*: &nbsp;🎉🎉 Shanghai Jiao Tong University officially released a [news](https://news.sjtu.edu.cn/zhxw/20230517/182978.html) about me.
 - *2023.03*: &nbsp;🎉🎉 I will continue to pursue my Ph.D. degree at Shanghai Jiao Tong University.
 - *2023.03*: &nbsp;🎉🎉 I graduated with the **highest honors** from Shanghai Jiao Tong University. 
-- *2022.05*: &nbsp;🎉🎉 One paper was accepted by IROS 2022 (<span style="color:red">**Top Robotics Conference, CCF-C**</span>)~1
+- *2022.05*: &nbsp;🎉🎉 One paper was accepted by IROS 2022 (<span style="color:red">**Top Robotics Conference, CCF-C**</span>)~
 
 
 # 📝 Publications 
