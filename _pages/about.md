@@ -184,9 +184,9 @@ My research interests include computer vision, semantic segmentation, un-/semi-s
 
 
 # 📖 Educations
-- *2023.03 - present*, Ph.D. in Computer Science, **Shanghai Jiao Tong University** (SJTU), Shanghai
-- *2020.09 - 2023.03*, M.S. in Automation, **Shanghai Jiao Tong University** (SJTU), Shanghai
-- *2016.09 - 2020.09*, B.S. in Automation, **Northwestern Polytechnical University** (NWPU), Xi'an, Shaanxi
+- *2023.03 - present*,  **Ph.D. in Computer Science,Shanghai Jiao Tong University (SJTU), Shanghai**
+- *2020.09 - 2023.03*, **M.S. in Automation, Shanghai Jiao Tong University (SJTU), Shanghai**
+- *2016.09 - 2020.09*, **B.S. in Automation, Northwestern Polytechnical University (NWPU), Xi'an, Shaanxi**
 
 # 💻 Internships
 - *2024.07 - present*:  **Interaction Intelligence Lab, Ant Research, Hangzhou, Zhejiang**
