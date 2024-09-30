@@ -42,6 +42,38 @@ My research interests include computer vision, semantic segmentation, un-/semi-s
 # 📝 Publications 
 **Equal contribution**$^\star$
 
+<table style="width:100%;border:0px;border-spacing:0px;border-collapse:separate;margin-right:auto;margin-left:auto;"><tbody>
+
+  <tr>
+      <td width="25%">
+        <img style="width: 100%; max-height: 100px; object-fit: cover;" src="./images/nips-disco.png">
+      </td>
+      <td style="padding:20px;width:75%;vertical-align:middle">
+        <div class="title">
+          CoDeF: Content Deformation Fields for Temporally Consistent Video Processing
+        </div>
+        <div class="author">
+          <a href="https://ken-ouyang.github.io" target="_blank">Hao Ouyang*</a>,
+          <a href="https://github.com/qiuyu96" target="_blank">Qiuyu Wang*</a>,
+          <a href="https://henry123-boy.github.io/" target="_blank">Yuxi Xiao*</a>,
+          <a href="" target="_blank">Qingyan Bai</a>,
+          <a href="" target="_blank">Juntao Zhang</a>,
+          <strong>Kecheng Zheng</strong>,
+          <a href="" target="_blank">Xiaowei Zhou</a>,
+          <a href="" target="_blank">Qifeng Chen</a>,
+          <a href="https://shenyujun.github.io/" target="_blank">Yujun Shen</a>
+        </div>
+        <em><font color="#663399"><strong>Arxiv, 2023</strong></font></em></em> &nbsp <font color="red"><strong></strong></font>
+        <br>
+        <div class="material">
+          <a href="https://arxiv.org/abs/2308.07926">Arxiv</a> /
+          <a href="https://qiuyu96.github.io/CoDeF/">Project</a> /
+          <a href="https://github.com/qiuyu96/CoDeF">Code</a> <img alt="GitHub stars" style="vertical-align:middle" src="https://img.shields.io/github/stars/qiuyu96/CoDeF?style=social">
+        </div>
+      </td>
+  </tr>
+</table>
+
 <div class='paper-box'><div class='paper-box-image'><div><div class="badge">NeurlPS 2024</div><img src='images/nips-disco.png' alt="sym" width="80%"></div></div>
 <div class='paper-box-text' markdown="1">
 
