@@ -180,7 +180,7 @@ My research interests include computer vision, semantic segmentation, un-/semi-s
 - *2016.09 - 2020.09*, **B.S. in Automation, Northwestern Polytechnical University (NWPU), Xi'an, Shaanxi**
 
 # 💻 Internships
-- *2024.07 - present*:  **Interaction Intelligence Lab, Ant Research img src='./images/alipay_logo.png' style='height: 0.9em;'>, Hangzhou, Zhejiang**
+- *2024.07 - present*:  **Interaction Intelligence Lab, Ant Research <img src='./images/alipay_logo.png' style='height: 0.9em;'>, Hangzhou, Zhejiang**
   - Position: Multi-Modal Algorithm Intern
   - Duty: Multi-Modal Algorithm Research
   - Supervisor: Dr. [Kecheng Zheng](https://scholar.google.com/citations?user=hMDQifQAAAAJ)
@@ -205,7 +205,7 @@ My research interests include computer vision, semantic segmentation, un-/semi-s
 - *2022.09* CETC Les <img src='./images/les_logo.jpg' style='height: 1em;'> Scholarship (SJTU)
 - *2021.10* **National Scholarship** for Graduate Students (*Top 3%* in SJTU)
 - *2020.06* Excellent Graduate of Shaanxi Province(*Top 3%* in NWPU)
-- *2019.11* Wu Yajun1 <img src='./images/longhu_logo.png' style='height: 0.8em;'> Scholarship (NWPU)
+- *2019.11* Wu Yajun1 <img src='./images/longhu_logo.png' style='height: 0.82em;'> Scholarship (NWPU)
 - *2018.11* The Third Prize of National Undergraduate Electronics Design Contest
 - *2018.10* **National Scholarship** for Undergraduate Students (*Top 1%* in NWPU)
 - *2018.05* Meritorious Winner of the Interdisciplinary Contest in Modeling (ICM) <img src='./images/comap_logo.png' style='height: 1em;'>
