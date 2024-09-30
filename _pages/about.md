@@ -215,7 +215,7 @@ My research interests include computer vision, semantic segmentation, un-/semi-s
 
 # 💬 Activities
 - Reviewer: NeurlPS, CVPR, ICCV, ACM MM, TCSVT and TNNLS etc.
-- *2020.09 - present*, Alumni trustee of Shanghai Jiao Tong University.
+- *2023.03 - present*, Alumni trustee of Shanghai Jiao Tong University.
 - *2020.09 - 2023.03*, Monitor of Master Class B2003292, Shanghai Jiao Tong University.
 - *2016.09 - 2022.06*, Mental-Health Counselor, Northwestern Polytechnical University.
 - Avocation: Competitive road cycling (more than 10 years); Marathon (Half Marathon PB 1:27, Marathon PB 3:08).
