@@ -213,7 +213,7 @@ My research interests include computer vision, semantic segmentation, un-/semi-s
 - *2015.09* The Second Prize of Chinese Physics Olympiad <img src='./images/cpo_logo.png' style='height: 1em;'>
 - *2015.09* The Third Prize of Chinese Mathematical Olympiad <img src='./images/cmo_logo.png' style='height: 1em;'>
 
-# 💬 Activities<
+# 💬 Activities
 - Reviewer: NeurlPS, CVPR, ICCV, ACM MM, TCSVT and TNNLS etc.
 - *2023.03 - present*, Alumni trustee of Shanghai Jiao Tong University.
 - *2020.09 - 2023.03*, Monitor of Master Class B2003292, Shanghai Jiao Tong University.
