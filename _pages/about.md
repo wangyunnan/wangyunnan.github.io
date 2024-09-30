@@ -180,7 +180,7 @@ My research interests include computer vision, semantic segmentation, un-/semi-s
 - *2016.09 - 2020.09*, **B.S. in Automation, Northwestern Polytechnical University (NWPU), Xi'an, Shaanxi**
 
 # 💻 Internships
-- *2024.07 - present*:  **Interaction Intelligence Lab, Ant Research <img src='./images/alipay_logo.png' style='height: 0.9em;'>, Hangzhou, Zhejiang**
+- *2024.07 - present*:  **Interaction Intelligence Lab, Ant Research img src='./images/alipay_logo.png' style='height: 0.9em;'>, Hangzhou, Zhejiang**
   - Position: Multi-Modal Algorithm Intern
   - Duty: Multi-Modal Algorithm Research
   - Supervisor: Dr. [Kecheng Zheng](https://scholar.google.com/citations?user=hMDQifQAAAAJ)
@@ -210,10 +210,10 @@ My research interests include computer vision, semantic segmentation, un-/semi-s
 - *2018.10* **National Scholarship** for Undergraduate Students (*Top 1%* in NWPU)
 - *2018.05* Meritorious Winner of the Interdisciplinary Contest in Modeling (ICM)
 - *2017.10* Guangdong-Hong Kong-Macao Scholarship (NWPU)
-- *2015.09* The Second Prize of Chinese Physics Olympiad
-- *2015.09* The Third Prize of Chinese Mathematical Olympiad
+- *2015.09* The Second Prize of Chinese Physics Olympiad <img src='./images/cpo_logo.png' style='height: 1em;'>
+- *2015.09* The Third Prize of Chinese Mathematical Olympiad <img src='./images/cmo_logo.png' style='height: 1em;'>
 
-# 💬 Activities
+# 💬 Activities<
 - Reviewer: NeurlPS, CVPR, ICCV, ACM MM, TCSVT and TNNLS etc.
 - *2023.03 - present*, Alumni trustee of Shanghai Jiao Tong University.
 - *2020.09 - 2023.03*, Monitor of Master Class B2003292, Shanghai Jiao Tong University.
