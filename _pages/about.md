@@ -122,7 +122,7 @@ Bohan Li, Yasheng Sun, Zhujin Liang, Dalong Du, Zhuanghui Zhang, Xiaofeng Wang, 
 
 ## Preprint
 
-<div class='paper-box'><div class='paper-box-image'><div><div class="badge">NeurlPS 2024</div><img src='images/tcsvt24.png' alt="sym" width="80%"></div></div>
+<div class='paper-box'><div class='paper-box-image'><div><div class="badge">TCSVT 2024</div><img src='images/tcsvt24.png' alt="sym" width="80%"></div></div>
 <div class='paper-box-text' markdown="1">
 
 **Canvas: Compositional Generation for Art Painting with Seamless Subject-Driven Infusion**
@@ -135,7 +135,7 @@ Bohan Li, Yasheng Sun, Zhujin Liang, Dalong Du, Zhuanghui Zhang, Xiaofeng Wang, 
 </div>
 </div>
 
-<div class='paper-box'><div class='paper-box-image'><div><div class="badge">NeurlPS 2024</div><img src='images/tmi23.png' alt="sym" width="80%"></div></div>
+<div class='paper-box'><div class='paper-box-image'><div><div class="badge">TMI 2023</div><img src='images/tmi23.png' alt="sym" width="80%"></div></div>
 <div class='paper-box-text' markdown="1">
 
 **Exploring Contrastive Pre-training for Domain Connections in Medical Image Segmentation**
@@ -147,7 +147,7 @@ Zequn Zhang$^\star$, Yun Jiang$^\star$, **Yunnan Wang**, Baao Xie, Wenyao Zhang,
 </div>
 </div>
 
-<div class='paper-box'><div class='paper-box-image'><div><div class="badge">NeurlPS 2024</div><img src='images/kbs24.png' alt="sym" width="80%"></div></div>
+<div class='paper-box'><div class='paper-box-image'><div><div class="badge">KBS 2024</div><img src='images/kbs24.png' alt="sym" width="80%"></div></div>
 <div class='paper-box-text' markdown="1">
 
 **Single-Instance Feature Bias Calibrating Learning Base EM for Text-to-Image Person Re-identification**
@@ -159,7 +159,7 @@ Yifeng Gou, Ziqiang Li, Junyin Zhang, **Yunnan Wang**, Yongxin Ge
 </div>
 </div>
 
-<div class='paper-box'><div class='paper-box-image'><div><div class="badge">NeurlPS 2024</div><img src='images/ongoing1.png' alt="sym" width="80%"></div></div>
+<div class='paper-box'><div class='paper-box-image'><div><div class="badge">Ongoing 2024</div><img src='images/ongoing1.png' alt="sym" width="80%"></div></div>
 <div class='paper-box-text' markdown="1">
 
 **Coarse-to-Fine Monocular Depth Estimation with Text Alignment and Pose Disentanglement**
