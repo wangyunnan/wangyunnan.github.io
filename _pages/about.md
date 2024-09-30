@@ -114,6 +114,7 @@ Bohan Li, Yasheng Sun, Zhujin Liang, Dalong Du, Zhuanghui Zhang, Xiaofeng Wang, 
 **Yunnan Wang**, Jianxun Li
 
 <em><font color="#663399"><strong>IEEE/RSJ International Conference on Intelligent Robots and System (IROS 2022).</strong></font></em>
+<em><font color="red"><strong>Oral Presentation.</strong></font></em>
 
 [**Project**](https://ieeexplore.ieee.org/abstract/document/9981567)/[**Arxiv**](https://ieeexplore.ieee.org/abstract/document/9981567)/[**Code**](https://github.com/Arlo0o/StereoScene)
 </div>
@@ -143,7 +144,7 @@ Bohan Li, Yasheng Sun, Zhujin Liang, Dalong Du, Zhuanghui Zhang, Xiaofeng Wang, 
 Zequn Zhang$^\star$, Yun Jiang$^\star$, **Yunnan Wang**, Baao Xie, Wenyao Zhang, Yuhang Li, Zhen Chen, Xin Jin, Wenjun Zeng**
 
 <em><font color="#663399"><strong>IEEE Transactions on Medical Imaging (TMI), under review.</strong></font></em>
- 
+
 [**Project**](https://neurips.cc/virtual/2024/poster/92965)/[**Arxiv**](https://neurips.cc/virtual/2024/poster/92965)/[**Code**](https://neurips.cc/virtual/2024/poster/92965)
 </div>
 </div>
