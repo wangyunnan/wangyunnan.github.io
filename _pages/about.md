@@ -122,20 +122,55 @@ Bohan Li, Yasheng Sun, Zhujin Liang, Dalong Du, Zhuanghui Zhang, Xiaofeng Wang, 
 
 ## Preprint
 
-- **Canvas: Compositional Generation for Art Painting with Seamless Subject-Driven Infusion**
-  - **Yunnan Wang**, Ziqiang Li, Wenyao Zhang, Lexiang Lv, Zequn Zhang, Xiaoyu Shen, Xin Jin, Wenjun Zeng
-  - *IEEE Transactions on Circuits and Systems for Video Technology (TCSVT), under review*
+<div class='paper-box'><div class='paper-box-image'><div><div class="badge">NeurlPS 2024</div><img src='images/tcsvt24.png' alt="sym" width="80%"></div></div>
+<div class='paper-box-text' markdown="1">
 
-- **Exploring Contrastive Pre-training for Domain Connections in Medical Image Segmentation**
-  - Zequn Zhang$^\star$, Yun Jiang$^\star$, **Yunnan Wang**, Baao Xie, Wenyao Zhang, Yuhang Li, Zhen Chen, Xin Jin, Wenjun Zeng**
-  - *IEEE Transactions on Medical Imaging (TMI), under review*
+**Canvas: Compositional Generation for Art Painting with Seamless Subject-Driven Infusion**
 
-- **Single-Instance Feature Bias Calibrating Learning Base EM for Text-to-Image Person Re-identification**
-  - Yifeng Gou, Ziqiang Li, Junyin Zhang, **Yunnan Wang**, Yongxin Ge
-  - *Knowledge-based Systems (KBS), under review*
+**Yunnan Wang**, Ziqiang Li, Wenyao Zhang, Lexiang Lv, Zequn Zhang, Xiaoyu Shen, Xin Jin, Wenjun Zeng
 
-- **Coarse-to-Fine Monocular Depth Estimation with Text Alignment and Pose Disentanglement**
-  - Wenyao Zhang, Bohan Li, **Yunnan Wang**, Shengyang Zhao, Xin Jin, Wenjun Zeng
+<em><font color="#663399"><strong>IEEE Transactions on Circuits and Systems for Video Technology (TCSVT), under review.</strong></font></em> 
+
+[**Project**](https://neurips.cc/virtual/2024/poster/92965)/[**Arxiv**](https://neurips.cc/virtual/2024/poster/92965)/[**Code**](https://neurips.cc/virtual/2024/poster/92965)
+</div>
+</div>
+
+<div class='paper-box'><div class='paper-box-image'><div><div class="badge">NeurlPS 2024</div><img src='images/tmi23.png' alt="sym" width="80%"></div></div>
+<div class='paper-box-text' markdown="1">
+
+**Exploring Contrastive Pre-training for Domain Connections in Medical Image Segmentation**
+
+Zequn Zhang$^\star$, Yun Jiang$^\star$, **Yunnan Wang**, Baao Xie, Wenyao Zhang, Yuhang Li, Zhen Chen, Xin Jin, Wenjun Zeng**
+
+<em><font color="#663399"><strong>IEEE Transactions on Medical Imaging (TMI), under review.</strong></font></em> 
+[**Project**](https://neurips.cc/virtual/2024/poster/92965)/[**Arxiv**](https://neurips.cc/virtual/2024/poster/92965)/[**Code**](https://neurips.cc/virtual/2024/poster/92965)
+</div>
+</div>
+
+<div class='paper-box'><div class='paper-box-image'><div><div class="badge">NeurlPS 2024</div><img src='images/kbs24.png' alt="sym" width="80%"></div></div>
+<div class='paper-box-text' markdown="1">
+
+**Single-Instance Feature Bias Calibrating Learning Base EM for Text-to-Image Person Re-identification**
+
+Yifeng Gou, Ziqiang Li, Junyin Zhang, **Yunnan Wang**, Yongxin Ge
+
+<em><font color="#663399"><strong>Knowledge-based Systems (KBS), under review, under review.</strong></font></em> 
+[**Project**](https://neurips.cc/virtual/2024/poster/92965)/[**Arxiv**](https://neurips.cc/virtual/2024/poster/92965)/[**Code**](https://neurips.cc/virtual/2024/poster/92965)
+</div>
+</div>
+
+<div class='paper-box'><div class='paper-box-image'><div><div class="badge">NeurlPS 2024</div><img src='images/ongoing1.png' alt="sym" width="80%"></div></div>
+<div class='paper-box-text' markdown="1">
+
+**Coarse-to-Fine Monocular Depth Estimation with Text Alignment and Pose Disentanglement**
+
+Wenyao Zhang, Bohan Li, **Yunnan Wang**, Shengyang Zhao, Xin Jin, Wenjun Zeng
+
+<em><font color="#663399"><strong>Ongoing work.</strong></font></em> 
+[**Project**](https://neurips.cc/virtual/2024/poster/92965)/[**Arxiv**](https://neurips.cc/virtual/2024/poster/92965)/[**Code**](https://neurips.cc/virtual/2024/poster/92965)
+</div>
+</div>
+
 
 
 <!-- [**Project**](https://scholar.google.com/citations?view_op=view_citation&hl=zh-CN&user=DhtAFkwAAAAJ&citation_for_view=DhtAFkwAAAAJ:ALROH1vI_8AC) <strong><span class='show_paper_citations' data='DhtAFkwAAAAJ:ALROH1vI_8AC'></span></strong>
