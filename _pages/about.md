@@ -64,7 +64,7 @@ My research interests include computer vision, semantic segmentation, un-/semi-s
 
 **Graph-based Unsupervised Disentangled Representation Learning via Multimodal Large Language Models**
 
-Baao Xie, Qiuyu Chen,**Yunnan Wang**, Zequn Zhang, Xin Jin, Wenjun Zeng 
+<span style="color:#1772d0">Baao Xie, Qiuyu Chen,**Yunnan Wang**, Zequn Zhang, Xin Jin, Wenjun Zeng </span>
 
 <em><font color="#663399"><strong>Annual Conference on Neural Information Processing Systems (NeurIPS 2024).</strong></font></em> 
 
@@ -78,8 +78,7 @@ Baao Xie, Qiuyu Chen,**Yunnan Wang**, Zequn Zhang, Xin Jin, Wenjun Zeng
 
 **Consistency Prior Matters: Biomedical-Prompting Dual Augmentation for Domain Adaptive Medical Image Segmentation**
 
-**Yunnan Wang**, Zequn Zhang, Xin Jin, Wenjun Zeng
-
+<span style="color:#1772d0">**Yunnan Wang**, Zequn Zhang, Xin Jin, Wenjun Zeng</span>
 
 <em><font color="#663399"><strong>IEEE International Conference on Bioinformatics and Biomedicine (BIBM 2024).</strong></font></em> 
 <em><font color="red"><strong>Oral Presentation.</strong></font></em>
@@ -95,7 +94,7 @@ Baao Xie, Qiuyu Chen,**Yunnan Wang**, Zequn Zhang, Xin Jin, Wenjun Zeng
 
 **Bridging Stereo Geometry and BEV Representation with Reliable Mutual Interaction for Semantic Scene Completion**
 
-Bohan Li, Yasheng Sun, Zhujin Liang, Dalong Du, Zhuanghui Zhang, Xiaofeng Wang, **Yunnan Wang**, Xin Jin, Wenjun Zeng
+<span style="color:#1772d0">Bohan Li, Yasheng Sun, Zhujin Liang, Dalong Du, Zhuanghui Zhang, Xiaofeng Wang, **Yunnan Wang**, Xin Jin, Wenjun Zeng</span>
 
 <em><font color="#663399"><strong>International Joint Conference on Artificial Intelligence (IJCAI 2024).</strong></font></em>
 
@@ -110,7 +109,7 @@ Bohan Li, Yasheng Sun, Zhujin Liang, Dalong Du, Zhuanghui Zhang, Xiaofeng Wang, 
 
 **Bilateral Knowledge Distillation for Unsupervised Domain Adaptation of Semantic Segmentation**
 
-**Yunnan Wang**, Jianxun Li
+<span style="color:#1772d0">**Yunnan Wang**, Jianxun Li</span>
 
 <em><font color="#663399"><strong>IEEE/RSJ International Conference on Intelligent Robots and System (IROS 2022).</strong></font></em>
 <em><font color="red"><strong>Oral Presentation.</strong></font></em>
@@ -127,7 +126,7 @@ Bohan Li, Yasheng Sun, Zhujin Liang, Dalong Du, Zhuanghui Zhang, Xiaofeng Wang, 
 
 **Canvas: Compositional Generation for Art Painting with Seamless Subject-Driven Infusion**
 
-**Yunnan Wang**, Ziqiang Li, Wenyao Zhang, Lexiang Lv, Zequn Zhang, Xiaoyu Shen, Xin Jin, Wenjun Zeng
+<span style="color:#1772d0">**Yunnan Wang**, Ziqiang Li, Wenyao Zhang, Lexiang Lv, Zequn Zhang, Xiaoyu Shen, Xin Jin, Wenjun Zeng</span>
 
 <em><font color="#663399"><strong>IEEE Transactions on Circuits and Systems for Video Technology (TCSVT), under review.</strong></font></em> 
 
@@ -140,7 +139,7 @@ Bohan Li, Yasheng Sun, Zhujin Liang, Dalong Du, Zhuanghui Zhang, Xiaofeng Wang, 
 
 **Exploring Contrastive Pre-training for Domain Connections in Medical Image Segmentation**
 
-Zequn Zhang$^\star$, Yun Jiang$^\star$, **Yunnan Wang**, Baao Xie, Wenyao Zhang, Yuhang Li, Zhen Chen, Xin Jin, Wenjun Zeng**
+<span style="color:#1772d0">Zequn Zhang$^\star$, Yun Jiang$^\star$, **Yunnan Wang**, Baao Xie, Wenyao Zhang, Yuhang Li, Zhen Chen, Xin Jin, Wenjun Zeng</span>
 
 <em><font color="#663399"><strong>IEEE Transactions on Medical Imaging (TMI), under review.</strong></font></em>
 
@@ -153,7 +152,7 @@ Zequn Zhang$^\star$, Yun Jiang$^\star$, **Yunnan Wang**, Baao Xie, Wenyao Zhang,
 
 **Single-Instance Feature Bias Calibrating Learning Base EM for Text-to-Image Person Re-identification**
 
-Yifeng Gou, Ziqiang Li, Junyin Zhang, **Yunnan Wang**, Yongxin Ge
+<span style="color:#1772d0">Yifeng Gou, Ziqiang Li, Junyin Zhang, **Yunnan Wang**, Yongxin Ge</span>
 
 <em><font color="#663399"><strong>Knowledge-based Systems (KBS), under review, under review.</strong></font></em>
 
@@ -166,7 +165,7 @@ Yifeng Gou, Ziqiang Li, Junyin Zhang, **Yunnan Wang**, Yongxin Ge
 
 **Coarse-to-Fine Monocular Depth Estimation with Text Alignment and Pose Disentanglement**
 
-Wenyao Zhang, Bohan Li, **Yunnan Wang**, Shengyang Zhao, Xin Jin, Wenjun Zeng
+<span style="color:#1772d0">Wenyao Zhang, Bohan Li, **Yunnan Wang**, Shengyang Zhao, Xin Jin, Wenjun Zeng</span>
 
 <em><font color="#663399"><strong>Ongoing work.</strong></font></em>
 
