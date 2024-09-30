@@ -207,9 +207,10 @@ My research interests include computer vision, semantic segmentation, un-/semi-s
 - *2020.06* Excellent Graduate of Shaanxi Province(*Top 3%* in NWPU)
 - *2019.11* Wu Yajun Scholarship (NWPU)
 - *2018.10* **National Scholarship** for Undergraduate Students (*Top 1%* in NWPU)
+- *2018.05* Meritorious Winner of the Interdisciplinary Contest in Modeling (ICM)
 - *2017.10* Guangdong-Hong Kong-Macao Scholarship (NWPU)
-- *2015.9* The Second Prize of Chinese Physics Olympiad
-- *2015.9* The Third Prize of Chinese Mathematical Olympiad
+- *2015.09* The Second Prize of Chinese Physics Olympiad
+- *2015.09* The Third Prize of Chinese Mathematical Olympiad
 
 # 💬 Activities
 - Reviewer: NeurlPS, CVPR, ICCV, ACM MM, TCSVT and TNNLS etc.
