@@ -17,14 +17,9 @@ redirect_from:
 
 <span class='anchor' id='about-me'></span>
 
-Currently, I am a first-year Ph.D. student at [Artificial Intelligence Institute](https://ai.sjtu.edu.cn/), Shanghai Jiao Tong University, under the supervison of Prof. [Xiaokang Yang (杨小康)](https://scholar.google.com.hk/citations?hl=zh-CN&user=yDEavdMAAAAJ). Meanwhile, I am now a research intern at [Eastern Institute for Advanced Study](https://www.eitech.edu.cn/?lang=en/) <img src='./images/eias_logo.png' style='height: 0.85em;'> (co-supervised by Prof. [Kevin Zeng (曾文军)](https://scholar.google.com.hk/citations?hl=zh-CN&user=_cUfvYQAAAAJ) and Prof. [Xin Jin (金鑫)](https://scholar.google.com/citations?user=byaSC-kAAAAJ&hl=zh-CN)) and [Ant Research](https://www.antgroup.com/en/technology/) <img src='./images/alipay_logo.png' style='height: 1em;'> (supervised by Dr. [Kecheng Zheng (郑可成)](https://scholar.google.com/citations?user=hMDQifQAAAAJ)). Before that, I received my M.S. degree from Shanghai Jiao Tong University in 2023 and my B.S. degree from Northwestern Polytechnical University in 2020. Besides, I also had a great time interning at 2012 Lab of [Huawei](https://www.huawei.com/en/) <img src='./images/huawei_logo.png' style='height: 1em;'> and Applied Machine Learning of [ByteDance](https://www.bytedance.com/en/) <img src='./images/bytedance_log.png' style='height: 1em;'>.
+Currently, I am a first-year Ph.D. student at [Artificial Intelligence Institute](https://ai.sjtu.edu.cn/), Shanghai Jiao Tong University, under the supervison of Prof. [Xiaokang Yang (杨小康)](https://scholar.google.com.hk/citations?hl=zh-CN&user=yDEavdMAAAAJ). Meanwhile, I am now a research intern at [Eastern Institute for Advanced Study](https://www.eitech.edu.cn/?lang=en/) <img src='./images/eias_logo.png' style='height: 0.85em;'> (co-supervised by Prof. [Kevin Zeng (曾文军)](https://scholar.google.com.hk/citations?hl=zh-CN&user=_cUfvYQAAAAJ) and Prof. [Xin Jin (金鑫)](https://scholar.google.com/citations?user=byaSC-kAAAAJ&hl=zh-CN)) and [Ant Research](https://www.antgroup.com/en/technology/) <img src='./images/alipay_logo.png' style='height: 1em;'> (supervised by Dr. [Kecheng Zheng (郑可成)](https://scholar.google.com/citations?user=hMDQifQAAAAJ)). Before that, I received my M.S. degree from Shanghai Jiao Tong University in 2023 and my B.S. degree from Northwestern Polytechnical University in 2020. Besides, I also had a great time interning at 2012 Lab of [Huawei](https://www.huawei.com/en/) <img src='./images/huawei_logo.png' style='height: 1em;'> and Applied Machine Learning of [ByteDance](https://www.bytedance.com/en/) <img src='./images/bytedance_logo.png' style='height: 1em;'>.
 
 My research interests include computer vision, semantic segmentation, un-/semi-supervised learning from 2019, and AI Generated Content (AIGC) and multi-modal learning from 2023.
-
-<!-- My research interest includes neural machine translation and computer vision. I have published more than 100 papers at the top international AI conferences with total <a href='https://scholar.google.com/citations?user=DhtAFkwAAAAJ'>google scholar citations <strong><span id='total_cit'>260000+</span></strong></a> (You can also use google scholar badge <a href='https://scholar.google.com/citations?user=DhtAFkwAAAAJ'><img src="https://img.shields.io/endpoint?url={{ url | url_encode }}&logo=Google%20Scholar&labelColor=f6f6f6&color=9cf&style=flat&label=citations"></a>).  
-&nbsp <font color="red"><strong></strong></font>
---> 
-
 
 # 🔥 News
 - *2024.08*: &nbsp;🎉🎉 Two paper (with one **Spotlight**) was accepted by NeurlPS 2024 (<span style="color:red">**CCF-A**</span>)~
@@ -41,7 +36,6 @@ My research interests include computer vision, semantic segmentation, un-/semi-s
 
 # 📝 Publications 
 **Equal contribution**$^\star$
-
 
 <div class='paper-box'><div class='paper-box-image'><div><div class="badge">NeurlPS 2024</div><img src='images/nips-disco.png' alt="sym" width="80%"></div></div>
 <div class='paper-box-text' markdown="1">
@@ -71,6 +65,7 @@ My research interests include computer vision, semantic segmentation, un-/semi-s
 [**Project**](https://neurips.cc/virtual/2024/poster/94595)/[**Arxiv**](https://arxiv.org/html/2407.18999v1)/[**Code**](https://scholar.google.com/citations?view_op=view_citation&hl=zh-CN&user=DhtAFkwAAAAJ&citation_for_view=DhtAFkwAAAAJ:ALROH1vI_8AC)
 </div>
 </div>
+
 
 
 <div class='paper-box'><div class='paper-box-image'><div><div class="badge">BIBM 2024</div><img src='images/bibm.png' alt="sym" width="80%"></div></div>
@@ -134,6 +129,8 @@ My research interests include computer vision, semantic segmentation, un-/semi-s
 </div>
 </div>
 
+
+
 <div class='paper-box'><div class='paper-box-image'><div><div class="badge">TMI 2023</div><img src='images/tmi23.png' alt="sym" width="80%"></div></div>
 <div class='paper-box-text' markdown="1">
 
@@ -176,16 +173,6 @@ My research interests include computer vision, semantic segmentation, un-/semi-s
 [**Project**](https://neurips.cc/virtual/2024/poster/92965)/[**Arxiv**](https://neurips.cc/virtual/2024/poster/92965)/[**Code**](https://neurips.cc/virtual/2024/poster/92965)
 </div>
 </div>
-
-
-
-<!-- [**Project**](https://scholar.google.com/citations?view_op=view_citation&hl=zh-CN&user=DhtAFkwAAAAJ&citation_for_view=DhtAFkwAAAAJ:ALROH1vI_8AC) <strong><span class='show_paper_citations' data='DhtAFkwAAAAJ:ALROH1vI_8AC'></span></strong>
-- Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet. 
-</div>
-</div> -->
-
-<!-- - [Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet](https://github.com), A, B, C, **CVPR 2020** -->
-
 
 # 📖 Educations
 - *2023.03 - present*,  **Ph.D. in Computer Science,Shanghai Jiao Tong University (SJTU), Shanghai**
