@@ -202,10 +202,10 @@ My research interests include computer vision, semantic segmentation, un-/semi-s
 
 # 🎖 Honors and Awards
 - *2023.03* Excellent Graduate of Shanghai (*Top 3%* in SJTU)
-- *2022.09* CETC Les <img src='./images/les_logo.png' style='height: 1em;'> Scholarship (SJTU)
+- *2022.09* CETC Les <img src='./images/les_logo.jpg' style='height: 1em;'> Scholarship (SJTU)
 - *2021.10* **National Scholarship** for Graduate Students (*Top 3%* in SJTU)
 - *2020.06* Excellent Graduate of Shaanxi Province(*Top 3%* in NWPU)
-- *2019.11* Wu Yajun <img src='./images/longhu_logo.png' style='height: 1em;'> Scholarship (NWPU)
+- *2019.11* Wu Yajun <img src='./images/longhu_logo.png' style='height: 0.85em;'> Scholarship (NWPU)
 - *2018.11* The Third Prize of National Undergraduate Electronics Design Contest
 - *2018.10* **National Scholarship** for Undergraduate Students (*Top 1%* in NWPU)
 - *2018.05* Meritorious Winner of the Interdisciplinary Contest in Modeling (ICM)
@@ -218,5 +218,5 @@ My research interests include computer vision, semantic segmentation, un-/semi-s
 - *2023.03 - present*, Alumni trustee of Shanghai Jiao Tong University.
 - *2020.09 - 2023.03*, Monitor of Master Class B2003292, Shanghai Jiao Tong University.
 - *2016.09 - 2022.06*, Mental-Health Counselor, Northwestern Polytechnical University.
-- Avocation <img src='./images/sports.png' style='height: 1em;'>: Competitive road cycling (more than 10 years); Marathon (Half Marathon PB 1:27, Marathon PB 3:08).
+- Avocation <img src='./images/sports.png' style='height: 1em;'>: Competitive road cycling <img src='./images/bike.png' style='height: 1em;'> (more than 10 years); Marathon <img src='./images/track.png' style='height: 1em;'> (Half Marathon PB 1:27, Marathon PB 3:08).
 
