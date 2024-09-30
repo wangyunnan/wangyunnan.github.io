@@ -78,7 +78,7 @@
         .paper-box-text{
             justify-content: left;
             padding-left: 0.1em;
-            max-width: 60%;
+            max-width: 80%;
             order: 2;
         }
 
@@ -87,7 +87,7 @@
 
 }
 
-$scroll_offset : 0.1em;
+$scroll_offset : 2em;
 h1:before, .anchor:before { 
     content: ''; 
     display: block; 
