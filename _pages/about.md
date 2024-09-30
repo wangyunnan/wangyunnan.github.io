@@ -17,7 +17,7 @@ redirect_from:
 
 <span class='anchor' id='about-me'></span>
 
-Currently, I am a first-year Ph.D. student at [Artificial Intelligence Institute](https://ai.sjtu.edu.cn/), Shanghai Jiao Tong University, under the supervison of Prof. [Xiaokang Yang (杨小康)](https://scholar.google.com.hk/citations?hl=zh-CN&user=yDEavdMAAAAJ). Meanwhile, I am now a research intern at [Eastern Institute for Advanced Study](https://www.eitech.edu.cn/?lang=en/) <img src='./images/eias_logo.png' style='height: 0.8em;'> (co-supervised by Prof. [Kevin Zeng (曾文军)](https://scholar.google.com.hk/citations?hl=zh-CN&user=_cUfvYQAAAAJ) and Prof. [Xin Jin (金鑫)](https://scholar.google.com/citations?user=byaSC-kAAAAJ&hl=zh-CN)) and [Ant Research](https://www.antgroup.com/en/technology/) <img src='./images/alipay_logo.png' style='height: 0.9em;'> (supervised by Dr. [Kecheng Zheng (郑可成)](https://scholar.google.com/citations?user=hMDQifQAAAAJ)). Before that, I received my M.S. degree from Shanghai Jiao Tong University in 2023 and my B.S. degree from Northwestern Polytechnical University in 2020. Besides, I also had a great time interning at 2012 Lab of [Huawei](https://www.huawei.com/en/) <img src='./images/huawei_logo.png' style='height: 1em;'> and Applied Machine Learning of [ByteDance](https://www.bytedance.com/en/) <img src='./images/bytedance_logo.png' style='height: 0.85em;'>.
+Currently, I am a second-year Ph.D. student at [Artificial Intelligence Institute](https://ai.sjtu.edu.cn/), Shanghai Jiao Tong University, under the supervison of Prof. [Xiaokang Yang (杨小康)](https://scholar.google.com.hk/citations?hl=zh-CN&user=yDEavdMAAAAJ). Meanwhile, I am now a research intern at [Eastern Institute for Advanced Study](https://www.eitech.edu.cn/?lang=en/) <img src='./images/eias_logo.png' style='height: 0.8em;'> (co-supervised by Prof. [Kevin Zeng (曾文军)](https://scholar.google.com.hk/citations?hl=zh-CN&user=_cUfvYQAAAAJ) and Prof. [Xin Jin (金鑫)](https://scholar.google.com/citations?user=byaSC-kAAAAJ&hl=zh-CN)) and [Ant Research](https://www.antgroup.com/en/technology/) <img src='./images/alipay_logo.png' style='height: 0.9em;'> (supervised by Dr. [Kecheng Zheng (郑可成)](https://scholar.google.com/citations?user=hMDQifQAAAAJ)). Before that, I received my M.S. degree from Shanghai Jiao Tong University in 2023 (supervised by Prof. [Jianxun Li (李建勋)](https://www.researchgate.net/profile/Li-Jianxun/)) and my B.S. degree from Northwestern Polytechnical University in 2020 (supervised by Prof. [jianhua He (何建华)](https://teacher.nwpu.edu.cn/en/j82zf0vfmf50835d3461429868736702.html)). Besides, I also had a great time interning at 2012 Lab of [Huawei](https://www.huawei.com/en/) <img src='./images/huawei_logo.png' style='height: 1em;'> and Applied Machine Learning of [ByteDance](https://www.bytedance.com/en/) <img src='./images/bytedance_logo.png' style='height: 0.85em;'>.
 
 My research interests include computer vision, semantic segmentation, un-/semi-supervised learning from 2019, and AI Generated Content (AIGC) and multi-modal learning from 2023.
 
@@ -35,14 +35,14 @@ My research interests include computer vision, semantic segmentation, un-/semi-s
 
 
 # 📝 Publications 
-**Equal contribution**$^\star$
+**Equal contribution**$^\star$; **Corresponding author**$^\dagger$
 
 <div class='paper-box'><div class='paper-box-image'><div><div class="badge">NeurlPS 2024</div><img src='images/nips-disco.png' alt="sym" width="80%"></div></div>
 <div class='paper-box-text' markdown="1">
 
 **Scene Graph Disentanglement and Composition for Generalizable Complex Image Generation**
 
-<span style="color:#1772d0">**Yunnan Wang**, Ziqiang Li, Zequn Zhang, Wenyao Zhang, Baao Xie, Xihui Liu, Wenjun Zeng, Xin Jin</span>
+<span style="color:#1772d0">**Yunnan Wang**, Ziqiang Li, Zequn Zhang, Wenyao Zhang, Baao Xie, Xihui Liu, Wenjun Zeng, Xin Jin$^\dagger$</span>
 
 <em><font color="#663399"><strong>Annual Conference on Neural Information Processing Systems (NeurIPS 2024).</strong></font></em> 
 <em><font color="red"><strong>Spotlight.</strong></font></em>
@@ -58,7 +58,7 @@ My research interests include computer vision, semantic segmentation, un-/semi-s
 
 **Graph-based Unsupervised Disentangled Representation Learning via Multimodal Large Language Models**
 
-<span style="color:#1772d0">Baao Xie, Qiuyu Chen,**Yunnan Wang**, Zequn Zhang, Xin Jin, Wenjun Zeng </span>
+<span style="color:#1772d0">Baao Xie, Qiuyu Chen,**Yunnan Wang**, Zequn Zhang, Xin Jin, Wenjun Zeng$^\dagger$</span>
 
 <em><font color="#663399"><strong>Annual Conference on Neural Information Processing Systems (NeurIPS 2024).</strong></font></em> 
 
@@ -73,7 +73,7 @@ My research interests include computer vision, semantic segmentation, un-/semi-s
 
 **Consistency Prior Matters: Biomedical-Prompting Dual Augmentation for Domain Adaptive Medical Image Segmentation**
 
-<span style="color:#1772d0">**Yunnan Wang**, Zequn Zhang, Xin Jin, Wenjun Zeng</span>
+<span style="color:#1772d0">**Yunnan Wang**, Zequn Zhang, Xin Jin, Wenjun Zeng$^\dagger$</span>
 
 <em><font color="#663399"><strong>IEEE International Conference on Bioinformatics and Biomedicine (BIBM 2024).</strong></font></em> 
 <em><font color="red"><strong>Oral Presentation.</strong></font></em>
@@ -89,7 +89,7 @@ My research interests include computer vision, semantic segmentation, un-/semi-s
 
 **Bridging Stereo Geometry and BEV Representation with Reliable Mutual Interaction for Semantic Scene Completion**
 
-<span style="color:#1772d0">Bohan Li, Yasheng Sun, Zhujin Liang, Dalong Du, Zhuanghui Zhang, Xiaofeng Wang, **Yunnan Wang**, Xin Jin, Wenjun Zeng</span>
+<span style="color:#1772d0">Bohan Li, Yasheng Sun, Zhujin Liang, Dalong Du, Zhuanghui Zhang, Xiaofeng Wang, **Yunnan Wang**, Xin Jin, Wenjun Zeng$^\dagger$</span>
 
 <em><font color="#663399"><strong>International Joint Conference on Artificial Intelligence (IJCAI 2024).</strong></font></em>
 
@@ -104,7 +104,7 @@ My research interests include computer vision, semantic segmentation, un-/semi-s
 
 **Bilateral Knowledge Distillation for Unsupervised Domain Adaptation of Semantic Segmentation**
 
-<span style="color:#1772d0">**Yunnan Wang**, Jianxun Li</span>
+<span style="color:#1772d0">**Yunnan Wang**, Jianxun Li$^\dagger$</span>
 
 <em><font color="#663399"><strong>IEEE/RSJ International Conference on Intelligent Robots and System (IROS 2022).</strong></font></em>
 <em><font color="red"><strong>Oral Presentation.</strong></font></em>
@@ -121,7 +121,7 @@ My research interests include computer vision, semantic segmentation, un-/semi-s
 
 **Canvas: Compositional Generation for Art Painting with Seamless Subject-Driven Infusion**
 
-<span style="color:#1772d0">**Yunnan Wang**, Ziqiang Li, Wenyao Zhang, Lexiang Lv, Zequn Zhang, Xiaoyu Shen, Xin Jin, Wenjun Zeng</span>
+<span style="color:#1772d0">**Yunnan Wang**, Ziqiang Li, Wenyao Zhang, Lexiang Lv, Zequn Zhang, Xiaoyu Shen, Xin Jin, Wenjun Zeng$^\dagger$</span>
 
 <em><font color="#663399"><strong>IEEE Transactions on Circuits and Systems for Video Technology (TCSVT), under review.</strong></font></em> 
 
@@ -136,7 +136,7 @@ My research interests include computer vision, semantic segmentation, un-/semi-s
 
 **Exploring Contrastive Pre-training for Domain Connections in Medical Image Segmentation**
 
-<span style="color:#1772d0">Zequn Zhang$^\star$, Yun Jiang$^\star$, **Yunnan Wang**, Baao Xie, Wenyao Zhang, Yuhang Li, Zhen Chen, Xin Jin, Wenjun Zeng</span>
+<span style="color:#1772d0">Zequn Zhang$^\star$, Yun Jiang$^\star$, **Yunnan Wang**, Baao Xie, Wenyao Zhang, Yuhang Li, Zhen Chen, Xin Jin, Wenjun Zeng$^\dagger$</span>
 
 <em><font color="#663399"><strong>IEEE Transactions on Medical Imaging (TMI), under review.</strong></font></em>
 
@@ -151,7 +151,7 @@ My research interests include computer vision, semantic segmentation, un-/semi-s
 
 **Single-Instance Feature Bias Calibrating Learning Base EM for Text-to-Image Person Re-identification**
 
-<span style="color:#1772d0">Yifeng Gou, Ziqiang Li, Junyin Zhang, **Yunnan Wang**, Yongxin Ge</span>
+<span style="color:#1772d0">Yifeng Gou, Ziqiang Li, Junyin Zhang, **Yunnan Wang**, Yongxin Ge$^\dagger$</span>
 
 <em><font color="#663399"><strong>Knowledge-based Systems (KBS), under review.</strong></font></em>
 
@@ -166,7 +166,7 @@ My research interests include computer vision, semantic segmentation, un-/semi-s
 
 **Coarse-to-Fine Monocular Depth Estimation with Text Alignment and Pose Disentanglement**
 
-<span style="color:#1772d0">Wenyao Zhang, Bohan Li, **Yunnan Wang**, Shengyang Zhao, Xin Jin, Wenjun Zeng</span>
+<span style="color:#1772d0">Wenyao Zhang, Bohan Li, **Yunnan Wang**, Shengyang Zhao, Xin Jin, Wenjun Zeng$^\dagger$</span>
 
 <em><font color="#663399"><strong>Ongoing work.</strong></font></em>
 
@@ -217,6 +217,6 @@ My research interests include computer vision, semantic segmentation, un-/semi-s
 - Reviewer: NeurlPS, CVPR, ICCV, ACM MM, TCSVT and TNNLS etc.
 - *2023.03 - present*, Alumni Trustee of Shanghai Jiao Tong University.
 - *2020.09 - 2023.03*, Monitor of Master Class B2003292, Shanghai Jiao Tong University.
-- *2016.09 - 2022.06*, Mental-Health Counselor, Northwestern Polytechnical University.
+- *2016.09 - 2020.06*, Mental-Health Counselor, Northwestern Polytechnical University.
 - Avocation <img src='./images/sports.png' style='height: 1em;'>: Competitive road cycling <img src='./images/bike.png' style='height: 1em;'> (more than 10 years); Marathon <img src='./images/track.png' style='height: 1em;'> (Half Marathon PB 1:27, Marathon PB 3:08).
 
