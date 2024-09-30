@@ -208,7 +208,7 @@ My research interests include computer vision, semantic segmentation, un-/semi-s
 - *2019.11* Wu Yajun <img src='./images/longhu_logo.png' style='height: 0.85em;'> Scholarship (NWPU)
 - *2018.11* The Third Prize of National Undergraduate Electronics Design Contest
 - *2018.10* **National Scholarship** for Undergraduate Students (*Top 1%* in NWPU)
-- *2018.05* Meritorious Winner of the Interdisciplinary Contest in Modeling (ICM)
+- *2018.05* Meritorious Winner of the Interdisciplinary Contest in Modeling (ICM) <img src='./images/comap_logo.png' style='height: 1em;'>
 - *2017.10* Guangdong-Hong Kong-Macao Scholarship (NWPU)
 - *2015.09* The Second Prize of Chinese Physics Olympiad <img src='./images/cpo_logo.png' style='height: 1em;'>
 - *2015.09* The Third Prize of Chinese Mathematical Olympiad <img src='./images/cmo_logo.png' style='height: 1em;'>
