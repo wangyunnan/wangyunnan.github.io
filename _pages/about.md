@@ -147,6 +147,8 @@ My research interests include computer vision, semantic segmentation, un-/semi-s
 </div>
 </div>
 
+
+
 <div class='paper-box'><div class='paper-box-image'><div><div class="badge">KBS 2024</div><img src='images/kbs24.png' alt="sym" width="80%"></div></div>
 <div class='paper-box-text' markdown="1">
 
@@ -154,11 +156,13 @@ My research interests include computer vision, semantic segmentation, un-/semi-s
 
 <span style="color:#1772d0">Yifeng Gou, Ziqiang Li, Junyin Zhang, **Yunnan Wang**, Yongxin Ge</span>
 
-<em><font color="#663399"><strong>Knowledge-based Systems (KBS), under review, under review.</strong></font></em>
+<em><font color="#663399"><strong>Knowledge-based Systems (KBS), under review.</strong></font></em>
 
 [**Project**](https://neurips.cc/virtual/2024/poster/92965)/[**Arxiv**](https://neurips.cc/virtual/2024/poster/92965)/[**Code**](https://neurips.cc/virtual/2024/poster/92965)
 </div>
 </div>
+
+
 
 <div class='paper-box'><div class='paper-box-image'><div><div class="badge">Ongoing 2024</div><img src='images/ongoing1.png' alt="sym" width="80%"></div></div>
 <div class='paper-box-text' markdown="1">
