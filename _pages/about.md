@@ -202,7 +202,7 @@ My research interests include computer vision, semantic segmentation, un-/semi-s
 
 # 🎖 Honors and Awards
 - *2023.03* Excellent Graduate of Shanghai (*Top 3%* in SJTU)
-- *2022.09* CETC Les <img src='./images/les_logo.jpg' style='height: 1em;'> Scholarship (SJTU)
+- *2022.09* CETC Les <img src='./images/les_logo.jpg' style='height: 0.9em;'> Scholarship (SJTU)
 - *2021.10* **National Scholarship** for Graduate Students (*Top 3%* in SJTU)
 - *2020.06* Excellent Graduate of Shaanxi Province(*Top 3%* in NWPU)
 - *2019.11* Wu Yajun <img src='./images/longhu_logo.png' style='height: 0.83em;'> Scholarship (NWPU)
