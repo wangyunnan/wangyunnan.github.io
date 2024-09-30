@@ -225,6 +225,7 @@ My research interests include computer vision, semantic segmentation, un-/semi-s
 - *2015.9* The Third Prize of Chinese Mathematical Olympiad
 
 # 💬 Activities
-- *2020.09 - 2023.03*, Monitor of Master Class B2003292, Shanghai Jiao Tong University.
 - Reviewer: NeurlPS, CVPR, ICCV, ACM MM, TCSVT and TNNLS etc.
+- *2020.09 - 2023.03*, Monitor of Master Class B2003292, Shanghai Jiao Tong University.
+- *2016.09 - 2022.06*, Mental-Health Counselor, Northwestern Polytechnical University.
 
