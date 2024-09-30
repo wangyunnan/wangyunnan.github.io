@@ -180,22 +180,22 @@ My research interests include computer vision, semantic segmentation, un-/semi-s
 - *2016.09 - 2020.09*, **B.S. in Automation, Northwestern Polytechnical University (NWPU), Xi'an, Shaanxi**
 
 # 💻 Internships
-- *2024.07 - present*:  **Interaction Intelligence Lab, Ant Research, Hangzhou, Zhejiang**
+- *2024.07 - present*:  **Interaction Intelligence Lab, Ant Research <img src='./images/alipay_logo.png' style='height: 0.9em;'>, Hangzhou, Zhejiang**
   - Position: Multi-Modal Algorithm Intern
   - Duty: Multi-Modal Algorithm Research
   - Supervisor: Dr. [Kecheng Zheng](https://scholar.google.com/citations?user=hMDQifQAAAAJ)
 
-- *2023.09 - present*: **College of Information Science and Technology, Eastern Institute for Advanced Study, Ningbo, Zhejiang**
+- *2023.09 - present*: **College of Information Science and Technology, Eastern Institute for Advanced Study <img src='./images/eias_logo.png' style='height: 0.8em;'>, Ningbo, Zhejiang**
   - Position: Computer Vision Algorithm Intern
   - Dutiy: AI Generated Content (AIGC) Research
   - Supervisor: Prof. [Wenjun Zeng](https://scholar.google.com.hk/citations?hl=zh-CN&user=_cUfvYQAAAAJ) and Prof. [Xin Jin](https://scholar.google.com/citations?user=byaSC-kAAAAJ&hl=zh-CN)
 
-* *2022.06 - 2022.10*: **Central Media Technology Institute, 2012 Lab, Huawei, Shanghai**
+* *2022.06 - 2022.10*: **Central Media Technology Institute, 2012 Lab, Huawei <img src='./images/huawei_logo.png' style='height: 1em;'>, Shanghai**
   * Position: Computer Vision Algorithm Intern
   * Duty: Optical Flow Estimation, Motion Detection, and Lane Detection
   * Supervisor: Dr. [Jia Cai](https://scholar.google.com.hk/citations?user=gg6nH6QAAAAJ&hl=zh-CN&oi=sra)
 
-* *2022.03 - 2022.06*: **Applied Machine Learning (AML), ByteDance, Shanghai**
+* *2022.03 - 2022.06*: **Applied Machine Learning (AML), ByteDance <img src='./images/bytedance_logo.png' style='height: 0.85em;'>, Shanghai**
   * Position: Machine Learning Algorithm Intern
   * Duties included: Recommendation/Advertising/Search Algorithm Research
   * Supervisor: Dr. Xiang Li
