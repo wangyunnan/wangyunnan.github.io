@@ -211,7 +211,7 @@ My research interests include computer vision, semantic segmentation, un-/semi-s
 - *2018.05* Meritorious Winner of the Interdisciplinary Contest in Modeling (ICM) <img src='./images/comap_logo.png' style='height: 1em;'>
 - *2017.10* Guangdong-Hong Kong-Macao Scholarship (NWPU)
 - *2015.09* The Second Prize of Chinese Physics Olympiad <img src='./images/cpo_logo.png' style='height: 1em;'>
-- *2015.09* The Third Prize of Chinese Mathematical Olympiad <img src='./images/cmo_logo.png' style='height: 1em;'>
+- *2015.09* The Third Prize of Chinese Mathematical Olympiad <img src='./images/cmo_logo.png' style='height: 0.9em;'>
 
 # 💬 Activities
 - Reviewer: NeurlPS, CVPR, ICCV, ACM MM, TCSVT and TNNLS etc.
