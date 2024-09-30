@@ -89,7 +89,7 @@ Baao Xie, Qiuyu Chen,**Yunnan Wang**, Zequn Zhang, Xin Jin, Wenjun Zeng
 
 
 
-<div class='paper-box'><div class='paper-box-image'><div><div class="badge">IJCAI 2024</div><img src='images/500x300.png' alt="sym" width="80%"></div></div>
+<div class='paper-box'><div class='paper-box-image'><div><div class="badge">IJCAI 2024</div><img src='images/ijcai24.png' alt="sym" width="80%"></div></div>
 <div class='paper-box-text' markdown="1">
 
 **Bridging Stereo Geometry and BEV Representation with Reliable Mutual Interaction for Semantic Scene Completion**
@@ -105,7 +105,7 @@ Bohan Li, Yasheng Sun, Zhujin Liang, Dalong Du, Zhuanghui Zhang, Xiaofeng Wang, 
 
 
 
-<div class='paper-box'><div class='paper-box-image'><div><div class="badge">IROS 2022</div><img src='images/500x300.png' alt="sym" width="80%"></div></div>
+<div class='paper-box'><div class='paper-box-image'><div><div class="badge">IROS 2022</div><img src='images/iros22.png' alt="sym" width="80%"></div></div>
 <div class='paper-box-text' markdown="1">
 
 **Bilateral Knowledge Distillation for Unsupervised Domain Adaptation of Semantic Segmentation**
