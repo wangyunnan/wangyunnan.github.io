@@ -22,7 +22,7 @@ Currently, I am a second-year Ph.D. student at [Artificial Intelligence Institut
 My research interests include computer vision, semantic segmentation, un-/semi-supervised learning from 2019, and AI Generated Content (AIGC) and multi-modal learning from 2023.
 
 # 🔥 News
-- *2024.09*: &nbsp;🎉🎉 Two paper (with one **Spotlight**) were accepted by NeurlPS 2024 (<span style="color:red">**CCF-A**</span>)~
+- *2024.09*: &nbsp;🎉🎉 Two papers (with one **Spotlight**) were accepted by NeurlPS 2024 (<span style="color:red">**CCF-A**</span>)~
 - *2024.08*: &nbsp;🎉🎉 One paper was accepted by BIBM 2024 (<span style="color:red">**CCF-B**</span>)~
 - *2024.07*: &nbsp;🎉🎉 I joined Interaction Intelligence Lab, [Ant Research](https://www.antgroup.com/en/technology/) as a research intern.
 - *2024.04*: &nbsp;🎉🎉 Congratulations to Prof. Kevin Zeng on [his election](https://www.eitech.edu.cn/?p=2500) as the **International Fellow of the Canadian Academy of Engineering**.
@@ -197,7 +197,7 @@ My research interests include computer vision, semantic segmentation, un-/semi-s
 
 * *2022.03 - 2022.06*: **Applied Machine Learning (AML), ByteDance <img src='./images/bytedance_logo.png' style='height: 0.85em;'>, Shanghai**
   * Position: Machine Learning Algorithm Intern
-  * Duties included: Recommendation/Advertising/Search Algorithm Research
+  * Duty: Recommendation/Advertising/Search Algorithm Research
   * Supervisor: Dr. Xiang Li
 
 # 🎖 Honors and Awards
