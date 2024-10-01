@@ -220,3 +220,12 @@ My research interests include computer vision, semantic segmentation, un-/semi-s
 - *2016.09 - 2020.06*, Mental-Health Counselor, Northwestern Polytechnical University.
 - Avocation <img src='./images/sports.png' style='height: 1em;'>: Competitive road cycling <img src='./images/bike.png' style='height: 1em;'> (more than 10 years); Marathon <img src='./images/track.png' style='height: 1em;'> (Half Marathon PB 1:27, Marathon PB 3:08).
 
+
+<div id="footer-clusrmaps" style="width: 40%; position:relative; left:30%">
+    <center>
+        <div id="clustrmaps-widget" style="width:15%">
+            <script type="text/javascript" id="clstr_globe" src="//clustrmaps.com/globe.js?d=nlSICpnL-0hvum-TytLZ_nYEqZp0D4H5r2XiOv_YUsE"></script>
+        </div>
+    </center>
+</div>
+
