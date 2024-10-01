@@ -230,11 +230,11 @@ My research interests include computer vision, semantic segmentation, un-/semi-s
 </div>
 
 
-<div id="footer-clusrmaps" style="width: 40%; position:relative; left:30%">
+<!-- <div id="footer-clusrmaps" style="width: 40%; position:relative; left:30%">
     <center>
         <div id="clustrmaps-widget" style="width:70%">
             <script type="text/javascript" id="clustrmaps" src="//clustrmaps.com/map_v2.js?d=zZNkfKhgzaLVh3Ca6PfppQ7OF2_hj7qf29D-Dz1hXUY&cl=ffffff&w=a"></script>
         </div>
     </center>
-</div>
+</div> -->
 
