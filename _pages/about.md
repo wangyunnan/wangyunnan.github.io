@@ -221,7 +221,7 @@ My research interests include computer vision, semantic segmentation, un-/semi-s
 - Avocation <img src='./images/sports.png' style='height: 1em;'>: Competitive road cycling <img src='./images/bike.png' style='height: 1em;'> (more than 10 years); Marathon <img src='./images/track.png' style='height: 1em;'> (Half Marathon PB 1:27, Marathon PB 3:08).
 
 
-<div id="footer-clusrmaps" style="width: 20%; position:relative; left:40%">
+<div id="footer-clusrmaps" style="width: 30%; position:relative; left:35%">
     <center>
         <div id="clustrmaps-widget" style="width:60%">
             <script type="text/javascript" id="clstr_globe" src="//clustrmaps.com/globe.js?d=zZNkfKhgzaLVh3Ca6PfppQ7OF2_hj7qf29D-Dz1hXUY"></script>
