@@ -58,7 +58,7 @@ My research interests include computer vision, semantic segmentation, un-/semi-s
 
 **Graph-based Unsupervised Disentangled Representation Learning via Multimodal Large Language Models**
 
-<span style="color:#1772d0">Baao Xie, Qiuyu Chen,**Yunnan Wang**, Zequn Zhang, Xin Jin, Wenjun Zeng$^\dagger$</span>
+<span style="color:#1772d0">Baao Xie, Qiuyu Chen,**Yunnan Wang**, Zequn Zhang, Xin Jin$^\dagger$, Wenjun Zeng</span>
 
 <em><font color="#663399"><strong>Annual Conference on Neural Information Processing Systems (NeurIPS 2024).</strong></font></em> 
 
