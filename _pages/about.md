@@ -23,7 +23,7 @@ My research interests include computer vision, semantic segmentation, un-/semi-s
 
 # 🔥 News
 - *2024.09*: &nbsp;🎉🎉 Two papers (with one **Spotlight**) were accepted by NeurlPS 2024 (<span style="color:red">**CCF-A**</span>)~
-- *2024.08*: &nbsp;🎉🎉 One paper was accepted by BIBM 2024 (<span style="color:red">**CCF-B**</span>)~
+- *2024.08*: &nbsp;🎉🎉 One paper was accepted by BIBM 2024 (<span style="color:red">**Top Bioinformatics Conference, CCF-B**</span>)~
 - *2024.07*: &nbsp;🎉🎉 I joined Interaction Intelligence Lab, [Ant Research](https://www.antgroup.com/en/technology/) as a research intern.
 - *2024.04*: &nbsp;🎉🎉 Congratulations to Prof. Kevin Zeng on [his election](https://www.eitech.edu.cn/?p=2500) as the **International Fellow of the Canadian Academy of Engineering**.
 - *2024.04*: &nbsp;🎉🎉 One paper was accepted by IJCAI 2024 (<span style="color:red">**CCF-A**</span>)~
