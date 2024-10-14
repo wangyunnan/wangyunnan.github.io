@@ -22,7 +22,7 @@ Currently, I am a second-year Ph.D. student at [Artificial Intelligence Institut
 My research interests include computer vision, semantic segmentation, un-/semi-supervised learning from 2019, and AI Generated Content (AIGC) and multi-modal learning from 2023.
 
 # 🔥 News
-- *2024.10*: &nbsp;🎉🎉 I was invited to participate in the Half-Marathon of Westlake University and competed with Yigong Shi.
+- *2024.10*: &nbsp;🎉🎉 I was invited to participate in the Half-Marathon of Westlake University and [competed with Yigong Shi (施一公)](https://raw.githubusercontent.com/wangyunnan/wangyunnan.github.io/refs/heads/main/images/marathon1.jpg).
 - *2024.09*: &nbsp;🎉🎉 Two papers (with one **Spotlight**) were accepted by NeurlPS 2024 (<span style="color:red">**CCF-A**</span>)~
 - *2024.08*: &nbsp;🎉🎉 One paper was accepted by BIBM 2024 (<span style="color:red">**Top Bioinformatics Conference, CCF-B**</span>)~
 - *2024.07*: &nbsp;🎉🎉 I joined Interaction Intelligence Lab, [Ant Research](https://www.antgroup.com/en/technology/) as a research intern.
