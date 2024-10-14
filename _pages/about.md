@@ -22,7 +22,7 @@ Currently, I am a second-year Ph.D. student at [Artificial Intelligence Institut
 My research interests include computer vision, semantic segmentation, un-/semi-supervised learning from 2019, and AI Generated Content (AIGC) and multi-modal learning from 2023.
 
 # 🔥 News
-- *2024.10*: &nbsp;🎉🎉 I was invited to participate in the Half-Marathon of Westlake University (**1:35**) and [competed with Yigong Shi (施一公)](https://raw.githubusercontent.com/wangyunnan/wangyunnan.github.io/refs/heads/main/images/marathon1.jpg).
+- *2024.10*: &nbsp;🎉🎉 I was invited to participate in the Half-Marathon of Westlake University (**1h35m**) and [competed with Yigong Shi (施一公)](https://raw.githubusercontent.com/wangyunnan/wangyunnan.github.io/refs/heads/main/images/marathon1.jpg).
 - *2024.09*: &nbsp;🎉🎉 Two papers (with one **Spotlight**) were accepted by NeurlPS 2024 (<span style="color:red">**CCF-A**</span>)~
 - *2024.08*: &nbsp;🎉🎉 One paper was accepted by BIBM 2024 (<span style="color:red">**Top Bioinformatics Conference, CCF-B**</span>)~
 - *2024.07*: &nbsp;🎉🎉 I joined Interaction Intelligence Lab, [Ant Research](https://www.antgroup.com/en/technology/) as a research intern.
@@ -219,7 +219,7 @@ My research interests include computer vision, semantic segmentation, un-/semi-s
 - *2023.03 - present*, Alumni Trustee of Shanghai Jiao Tong University.
 - *2020.09 - 2023.03*, Monitor of Master Class B2003292, Shanghai Jiao Tong University.
 - *2016.09 - 2020.06*, Mental-Health Counselor, Northwestern Polytechnical University.
-- Avocation <img src='./images/sports.png' style='height: 1em;'>: Competitive road cycling <img src='./images/bike.png' style='height: 1em;'> (more than 10 years); Marathon <img src='./images/track.png' style='height: 1em;'> (Half Marathon PB 1:27, Marathon PB 3:08).
+- Avocation <img src='./images/sports.png' style='height: 1em;'>: Competitive road cycling <img src='./images/bike.png' style='height: 1em;'> (more than 10 years); Marathon <img src='./images/track.png' style='height: 1em;'> (Half Marathon PB 1h27m, Marathon PB 3h08m).
 
 
 <div id="footer-clusrmaps" style="width: 50%; position:relative; left:25%">
