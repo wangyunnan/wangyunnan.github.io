@@ -21,9 +21,10 @@ Currently, I am a second-year Ph.D. student of the joint program between [Artifi
 My research interests include Computer Vision, Semantic Segmentation, Un-/Semi-supervised Learning from 2019, and AI Generated Content (AIGC) and Multimodal Representation Learning from 2023.
 
 # 🔥 News
+- *2024.10*: &nbsp;🎉🎉 ne paper was accepted by TMI (<span style="color:red">**Top Journal in Medical Imaging, CCF-B**</span>)~
 - *2024.10*: &nbsp;🎉🎉 I was invited to participate in the Half-Marathon of Westlake University (**1h35m**) and [competed with Yigong Shi (施一公)](https://raw.githubusercontent.com/wangyunnan/wangyunnan.github.io/refs/heads/main/images/marathon1.jpg).
 - *2024.09*: &nbsp;🎉🎉 Two papers (with one **Spotlight**) were accepted by NeurlPS 2024 (<span style="color:red">**CCF-A**</span>)~
-- *2024.08*: &nbsp;🎉🎉 One paper was accepted by BIBM 2024 (<span style="color:red">**Top Bioinformatics Conference, CCF-B**</span>)~
+- *2024.08*: &nbsp;🎉🎉 One paper was accepted by BIBM 2024 (<span style="color:red">**Top Conference in Bioinformatics, CCF-B**</span>)~
 - *2024.07*: &nbsp;🎉🎉 I joined Interaction Intelligence Lab, [Ant Research](https://www.antgroup.com/en/technology/) as a research intern.
 - *2024.04*: &nbsp;🎉🎉 Congratulations to Prof. Kevin Zeng on [his election](https://www.eitech.edu.cn/?p=2500) as the **International Fellow of the Canadian Academy of Engineering**.
 - *2024.04*: &nbsp;🎉🎉 One paper was accepted by IJCAI 2024 (<span style="color:red">**CCF-A**</span>)~
@@ -31,7 +32,7 @@ My research interests include Computer Vision, Semantic Segmentation, Un-/Semi-s
 - *2023.05*: &nbsp;🎉🎉 Shanghai Jiao Tong University officially released a [news](https://news.sjtu.edu.cn/zhxw/20230517/182978.html) about me.
 - *2023.03*: &nbsp;🎉🎉 I will continue to pursue my Ph.D. degree at Shanghai Jiao Tong University.
 - *2023.03*: &nbsp;🎉🎉 I graduated with the **highest honors** from Shanghai Jiao Tong University. 
-- *2022.05*: &nbsp;🎉🎉 One paper was accepted by IROS 2022 (<span style="color:red">**Top Robotics Conference, CCF-C**</span>)~
+- *2022.05*: &nbsp;🎉🎉 One paper was accepted by IROS 2022 (<span style="color:red">**Top Conference in Robotics, CCF-C**</span>)~
 
 
 # 📝 Publications 
@@ -66,6 +67,19 @@ My research interests include Computer Vision, Semantic Segmentation, Un-/Semi-s
 </div>
 </div>
 
+
+<div class='paper-box'><div class='paper-box-image'><div><div class="badge">TMI 2023</div><img src='images/tmi23.png' alt="sym" width="80%"></div></div>
+<div class='paper-box-text' markdown="1">
+
+**Exploring Contrastive Pre-training for Domain Connections in Medical Image Segmentation**
+
+<span style="color:#1772d0">Zequn Zhang$^\star$, Yun Jiang$^\star$, **Yunnan Wang**, Baao Xie, Wenyao Zhang, Yuhang Li, Zhen Chen, Xin Jin, Wenjun Zeng$^\dagger$</span>
+
+<em><font color="#663399"><strong>IEEE Transactions on Medical Imaging (TMI), under review.</strong></font></em>
+
+[**Project**](https://neurips.cc/virtual/2024/poster/92965)/[**Arxiv**](https://neurips.cc/virtual/2024/poster/92965)/[**Code**](https://neurips.cc/virtual/2024/poster/92965)
+</div>
+</div>
 
 
 <div class='paper-box'><div class='paper-box-image'><div><div class="badge">BIBM 2024</div><img src='images/bibm.png' alt="sym" width="80%"></div></div>
@@ -128,22 +142,6 @@ My research interests include Computer Vision, Semantic Segmentation, Un-/Semi-s
 [**Project**](https://neurips.cc/virtual/2024/poster/92965)/[**Arxiv**](https://neurips.cc/virtual/2024/poster/92965)/[**Code**](https://neurips.cc/virtual/2024/poster/92965)
 </div>
 </div>
-
-
-
-<div class='paper-box'><div class='paper-box-image'><div><div class="badge">TMI 2023</div><img src='images/tmi23.png' alt="sym" width="80%"></div></div>
-<div class='paper-box-text' markdown="1">
-
-**Exploring Contrastive Pre-training for Domain Connections in Medical Image Segmentation**
-
-<span style="color:#1772d0">Zequn Zhang$^\star$, Yun Jiang$^\star$, **Yunnan Wang**, Baao Xie, Wenyao Zhang, Yuhang Li, Zhen Chen, Xin Jin, Wenjun Zeng$^\dagger$</span>
-
-<em><font color="#663399"><strong>IEEE Transactions on Medical Imaging (TMI), under review.</strong></font></em>
-
-[**Project**](https://neurips.cc/virtual/2024/poster/92965)/[**Arxiv**](https://neurips.cc/virtual/2024/poster/92965)/[**Code**](https://neurips.cc/virtual/2024/poster/92965)
-</div>
-</div>
-
 
 
 <div class='paper-box'><div class='paper-box-image'><div><div class="badge">KBS 2024</div><img src='images/kbs24.png' alt="sym" width="80%"></div></div>
