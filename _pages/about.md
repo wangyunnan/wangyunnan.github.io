@@ -68,7 +68,7 @@ My research interests include Computer Vision, Semantic Segmentation, Un-/Semi-s
 </div>
 
 
-<div class='paper-box'><div class='paper-box-image'><div><div class="badge">TMI 2023</div><img src='images/tmi23.png' alt="sym" width="80%"></div></div>
+<div class='paper-box'><div class='paper-box-image'><div><div class="badge">TMI 2024</div><img src='images/tmi23.png' alt="sym" width="80%"></div></div>
 <div class='paper-box-text' markdown="1">
 
 **Exploring Contrastive Pre-training for Domain Connections in Medical Image Segmentation**
