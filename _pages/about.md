@@ -21,6 +21,7 @@ Currently, I am a second-year Ph.D. student of the joint program between [Artifi
 My research interests include Computer Vision, Semantic Segmentation, Un-/Semi-supervised Learning from 2019, and AI Generated Content (AIGC) and Multimodal Representation Learning from 2023.
 
 # 🔥 News
+- *2025.03*: &nbsp;🎉🎉 One paper was accepted by KBS (<span style="color:red">**JCR Q1**</span>)~
 - *2024.12*: &nbsp;🎉🎉 One paper was accepted by TMI (<span style="color:red">**Top Journal in Medical Imaging, CCF-B**</span>)~
 - *2024.10*: &nbsp;🎉🎉 I was invited to participate in the Half-Marathon of Westlake University (**1h35m**) and [competed with Yigong Shi (施一公)](https://raw.githubusercontent.com/wangyunnan/wangyunnan.github.io/refs/heads/main/images/marathon1.jpg).
 - *2024.09*: &nbsp;🎉🎉 Two papers (with one **Spotlight**) were accepted by NeurlPS 2024 (<span style="color:red">**CCF-A**</span>)~
@@ -75,7 +76,7 @@ My research interests include Computer Vision, Semantic Segmentation, Un-/Semi-s
 
 <span style="color:#1772d0">Zequn Zhang$^\star$, Yun Jiang$^\star$, **Yunnan Wang**, Baao Xie, Wenyao Zhang, Yuhang Li, Zhen Chen, Xin Jin, Wenjun Zeng$^\dagger$</span>
 
-<em><font color="#663399"><strong>IEEE Transactions on Medical Imaging (TMI).</strong></font></em>
+<em><font color="#663399"><strong>IEEE Transactions on Medical Imaging (TMI 2024).</strong></font></em>
 
 [**Project**](https://neurips.cc/virtual/2024/poster/92965)/[**Arxiv**](https://neurips.cc/virtual/2024/poster/92965)/[**Code**](https://neurips.cc/virtual/2024/poster/92965)
 </div>
@@ -96,6 +97,19 @@ My research interests include Computer Vision, Semantic Segmentation, Un-/Semi-s
 </div>
 </div>
 
+
+<div class='paper-box'><div class='paper-box-image'><div><div class="badge">KBS 2024</div><img src='images/kbs24.png' alt="sym" width="80%"></div></div>
+<div class='paper-box-text' markdown="1">
+
+**Single-Instance Feature Bias Calibrating Learning Base EM for Text-to-Image Person Re-identification**
+
+<span style="color:#1772d0">Yifeng Gou, Ziqiang Li, Junyin Zhang, **Yunnan Wang**, Yongxin Ge$^\dagger$</span>
+
+<em><font color="#663399"><strong>Knowledge-based Systems (KBS 2025).</strong></font></em>
+
+[**Project**](https://neurips.cc/virtual/2024/poster/92965)/[**Arxiv**](https://neurips.cc/virtual/2024/poster/92965)/[**Code**](https://neurips.cc/virtual/2024/poster/92965)
+</div>
+</div>
 
 
 <div class='paper-box'><div class='paper-box-image'><div><div class="badge">IJCAI 2024</div><img src='images/ijcai24.png' alt="sym" width="80%"></div></div>
@@ -144,18 +158,7 @@ My research interests include Computer Vision, Semantic Segmentation, Un-/Semi-s
 </div>
 
 
-<div class='paper-box'><div class='paper-box-image'><div><div class="badge">KBS 2024</div><img src='images/kbs24.png' alt="sym" width="80%"></div></div>
-<div class='paper-box-text' markdown="1">
 
-**Single-Instance Feature Bias Calibrating Learning Base EM for Text-to-Image Person Re-identification**
-
-<span style="color:#1772d0">Yifeng Gou, Ziqiang Li, Junyin Zhang, **Yunnan Wang**, Yongxin Ge$^\dagger$</span>
-
-<em><font color="#663399"><strong>Knowledge-based Systems (KBS), under review.</strong></font></em>
-
-[**Project**](https://neurips.cc/virtual/2024/poster/92965)/[**Arxiv**](https://neurips.cc/virtual/2024/poster/92965)/[**Code**](https://neurips.cc/virtual/2024/poster/92965)
-</div>
-</div>
 
 
 
