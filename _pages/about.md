@@ -98,7 +98,7 @@ My research interests include Computer Vision, Semantic Segmentation, Un-/Semi-s
 </div>
 
 
-<div class='paper-box'><div class='paper-box-image'><div><div class="badge">KBS 2024</div><img src='images/kbs24.png' alt="sym" width="80%"></div></div>
+<div class='paper-box'><div class='paper-box-image'><div><div class="badge">KBS 2025</div><img src='images/kbs24.png' alt="sym" width="80%"></div></div>
 <div class='paper-box-text' markdown="1">
 
 **Single-Instance Feature Bias Calibrating Learning Base EM for Text-to-Image Person Re-identification**
