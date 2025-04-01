@@ -144,7 +144,7 @@ My research interests include Computer Vision, Semantic Segmentation, Un-/Semi-s
 
 ## Preprint
 
-<div class='paper-box'><div class='paper-box-image'><div><div class="badge">TCSVT 2024</div><img src='images/tcsvt24.png' alt="sym" width="80%"></div></div>
+<div class='paper-box'><div class='paper-box-image'><div><div class="badge">TCSVT 2024</div><img src='images/tcsvt25.png' alt="sym" width="80%"></div></div>
 <div class='paper-box-text' markdown="1">
 
 **Canvas: Compositional Generation for Art Painting with Seamless Subject-Driven Infusion**
