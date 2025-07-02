@@ -21,6 +21,8 @@ Currently, I am a second-year Ph.D. student of the joint program between [Artifi
 My research interests include Computer Vision, Semantic Segmentation, Un-/Semi-supervised Learning from 2019, and AI Generated Content (AIGC) and Multimodal Representation Learning from 2023.
 
 # 🔥 News
+- *2025.07*: &nbsp;🎉🎉 One paper was accepted by TCSVT (<span style="color:red">**JCR Q1**</span>) and ACM MM Industrial Demonstrations (<span style="color:red">**CCF-A**</span>)  ~
+- *2025.06*: &nbsp;🎉🎉 One paper was accepted by ICCV (<span style="color:red">**CCF-A**</span>)~
 - *2025.03*: &nbsp;🎉🎉 One paper was accepted by KBS (<span style="color:red">**JCR Q1**</span>)~
 - *2024.12*: &nbsp;🎉🎉 One paper was accepted by TMI (<span style="color:red">**Top Journal in Medical Imaging, CCF-B**</span>)~
 - *2024.10*: &nbsp;🎉🎉 I was invited to participate in the Half-Marathon of Westlake University (**1h35m**) and [competed with Yigong Shi (施一公)](https://raw.githubusercontent.com/wangyunnan/wangyunnan.github.io/refs/heads/main/images/marathon1.jpg).
@@ -54,6 +56,19 @@ My research interests include Computer Vision, Semantic Segmentation, Un-/Semi-s
 </div>
 
 
+<div class='paper-box'><div class='paper-box-image'><div><div class="badge">TCSVT 2024</div><img src='images/tcsvt25.png' alt="sym" width="80%"></div></div>
+<div class='paper-box-text' markdown="1">
+
+**Canvas: Compositional Generation for Art Painting with Seamless Subject-Driven Infusion**
+
+<span style="color:#1772d0">**Yunnan Wang**, Ziqiang Li, Wenyao Zhang, Lexiang Lv, Zequn Zhang, Xiaoyu Shen, Xin Jin, Wenjun Zeng$^\dagger$</span>
+
+<em><font color="#663399"><strong>IEEE Transactions on Circuits and Systems for Video Technology (TCSVT), under review.</strong></font></em> 
+
+[**Project**](https://neurips.cc/virtual/2024/poster/92965)/[**Arxiv**](https://neurips.cc/virtual/2024/poster/92965)/[**Code**](https://neurips.cc/virtual/2024/poster/92965)
+</div>
+</div>
+
 
 <div class='paper-box'><div class='paper-box-image'><div><div class="badge">NeurlPS 2024</div><img src='images/nips-gem2.png' alt="sym" width="80%"></div></div>
 <div class='paper-box-text' markdown="1">
@@ -65,6 +80,19 @@ My research interests include Computer Vision, Semantic Segmentation, Un-/Semi-s
 <em><font color="#663399"><strong>Annual Conference on Neural Information Processing Systems (NeurIPS 2024).</strong></font></em> 
 
 [**Project**](https://neurips.cc/virtual/2024/poster/94595)/[**Arxiv**](https://arxiv.org/html/2407.18999v1)/[**Code**](https://scholar.google.com/citations?view_op=view_citation&hl=zh-CN&user=DhtAFkwAAAAJ&citation_for_view=DhtAFkwAAAAJ:ALROH1vI_8AC)
+</div>
+</div>
+
+<div class='paper-box'><div class='paper-box-image'><div><div class="badge">Ongoing 2024</div><img src='images/ongoing1.png' alt="sym" width="80%"></div></div>
+<div class='paper-box-text' markdown="1">
+
+**Coarse-to-Fine Monocular Depth Estimation with Text Alignment and Pose Disentanglement**
+
+<span style="color:#1772d0">Wenyao Zhang, Bohan Li, **Yunnan Wang**, Shengyang Zhao, Xin Jin, Wenjun Zeng$^\dagger$</span>
+
+<em><font color="#663399"><strong>Ongoing work.</strong></font></em>
+
+[**Project**](https://neurips.cc/virtual/2024/poster/92965)/[**Arxiv**](https://neurips.cc/virtual/2024/poster/92965)/[**Code**](https://neurips.cc/virtual/2024/poster/92965)
 </div>
 </div>
 
@@ -142,38 +170,6 @@ My research interests include Computer Vision, Semantic Segmentation, Un-/Semi-s
 </div>
 
 
-## Preprint
-
-<div class='paper-box'><div class='paper-box-image'><div><div class="badge">TCSVT 2024</div><img src='images/tcsvt25.png' alt="sym" width="80%"></div></div>
-<div class='paper-box-text' markdown="1">
-
-**Canvas: Compositional Generation for Art Painting with Seamless Subject-Driven Infusion**
-
-<span style="color:#1772d0">**Yunnan Wang**, Ziqiang Li, Wenyao Zhang, Lexiang Lv, Zequn Zhang, Xiaoyu Shen, Xin Jin, Wenjun Zeng$^\dagger$</span>
-
-<em><font color="#663399"><strong>IEEE Transactions on Circuits and Systems for Video Technology (TCSVT), under review.</strong></font></em> 
-
-[**Project**](https://neurips.cc/virtual/2024/poster/92965)/[**Arxiv**](https://neurips.cc/virtual/2024/poster/92965)/[**Code**](https://neurips.cc/virtual/2024/poster/92965)
-</div>
-</div>
-
-
-
-
-
-
-<div class='paper-box'><div class='paper-box-image'><div><div class="badge">Ongoing 2024</div><img src='images/ongoing1.png' alt="sym" width="80%"></div></div>
-<div class='paper-box-text' markdown="1">
-
-**Coarse-to-Fine Monocular Depth Estimation with Text Alignment and Pose Disentanglement**
-
-<span style="color:#1772d0">Wenyao Zhang, Bohan Li, **Yunnan Wang**, Shengyang Zhao, Xin Jin, Wenjun Zeng$^\dagger$</span>
-
-<em><font color="#663399"><strong>Ongoing work.</strong></font></em>
-
-[**Project**](https://neurips.cc/virtual/2024/poster/92965)/[**Arxiv**](https://neurips.cc/virtual/2024/poster/92965)/[**Code**](https://neurips.cc/virtual/2024/poster/92965)
-</div>
-</div>
 
 # 📖 Educations
 - *2023.03 - present*,  **Ph.D. in Computer Science,Shanghai Jiao Tong University (SJTU), Shanghai**
