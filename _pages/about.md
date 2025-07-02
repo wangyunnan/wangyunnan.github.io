@@ -63,7 +63,8 @@ My research interests include Computer Vision, Semantic Segmentation, Un-/Semi-s
 
 <span style="color:#1772d0">**Yunnan Wang**, Ziqiang Li, Wenyao Zhang, Lexiang Lv, Zequn Zhang, Xiaoyu Shen, Xin Jin, Wenjun Zeng$^\dagger$</span>
 
-<em><font color="#663399"><strong>IEEE Transactions on Circuits and Systems for Video Technology (TCSVT) and ACM MM Industry Demonstration.</strong></font></em> 
+<em><font color="#663399"><strong>IEEE Transactions on Circuits and Systems for Video Technology (TCSVT).</strong></font></em> 
+<em><font color="#663399"><strong>ACM International Conference on Multimedia (ACM MM Industry Demonstration).</strong></font></em> 
 
 [**Project**](https://neurips.cc/virtual/2024/poster/92965)/[**Arxiv**](https://neurips.cc/virtual/2024/poster/92965)/[**Code**](https://neurips.cc/virtual/2024/poster/92965)
 </div>
