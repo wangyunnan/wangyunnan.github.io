@@ -88,7 +88,7 @@ My research interests include Computer Vision, Semantic Segmentation, Un-/Semi-s
 
 **Hybrid-grained Feature Aggregation with Coarse-to-fine Language Guidance for Self-supervised Monocular Depth Estimation**
 
-<span style="color:#1772d0">Wenyao Zhang, Bohan Li, **Yunnan Wang**, Shengyang Zhao, Xin Jin, Wenjun Zeng$^\dagger$</span>
+<span style="color:#1772d0">Wenyao Zhang, Hongsi Liu, Bohan Li, Jiawei He, Zekun Qi, **Yunnan Wang**, Shengyang Zhao, XinQiang Yu, Wenjun Zeng, Xin Jin$^\dagger$</span>
 
 <em><font color="#663399"><strong>IEEE/CVF International Conference on Computer Vision (ICCV).</strong></font></em>
 
