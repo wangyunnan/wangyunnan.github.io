@@ -56,14 +56,14 @@ My research interests include Computer Vision, Semantic Segmentation, Un-/Semi-s
 </div>
 
 
-<div class='paper-box'><div class='paper-box-image'><div><div class="badge">TCSVT 2024</div><img src='images/tcsvt25.png' alt="sym" width="80%"></div></div>
+<div class='paper-box'><div class='paper-box-image'><div><div class="badge">TCSVT 2025</div><img src='images/tcsvt25.png' alt="sym" width="80%"></div></div>
 <div class='paper-box-text' markdown="1">
 
 **Canvas: Compositional Generation for Art Painting with Seamless Subject-Driven Infusion**
 
 <span style="color:#1772d0">**Yunnan Wang**, Ziqiang Li, Wenyao Zhang, Lexiang Lv, Zequn Zhang, Xiaoyu Shen, Xin Jin, Wenjun Zeng$^\dagger$</span>
 
-<em><font color="#663399"><strong>IEEE Transactions on Circuits and Systems for Video Technology (TCSVT), under review.</strong></font></em> 
+<em><font color="#663399"><strong>IEEE Transactions on Circuits and Systems for Video Technology (TCSVT).</strong></font></em> 
 
 [**Project**](https://neurips.cc/virtual/2024/poster/92965)/[**Arxiv**](https://neurips.cc/virtual/2024/poster/92965)/[**Code**](https://neurips.cc/virtual/2024/poster/92965)
 </div>
@@ -83,14 +83,14 @@ My research interests include Computer Vision, Semantic Segmentation, Un-/Semi-s
 </div>
 </div>
 
-<div class='paper-box'><div class='paper-box-image'><div><div class="badge">Ongoing 2024</div><img src='images/ongoing1.png' alt="sym" width="80%"></div></div>
+<div class='paper-box'><div class='paper-box-image'><div><div class="badge">ICCV 2025</div><img src='images/iccv25.jpg' alt="sym" width="80%"></div></div>
 <div class='paper-box-text' markdown="1">
 
-**Coarse-to-Fine Monocular Depth Estimation with Text Alignment and Pose Disentanglement**
+**Hybrid-grained Feature Aggregation with Coarse-to-fine Language Guidance for Self-supervised Monocular Depth Estimation**
 
 <span style="color:#1772d0">Wenyao Zhang, Bohan Li, **Yunnan Wang**, Shengyang Zhao, Xin Jin, Wenjun Zeng$^\dagger$</span>
 
-<em><font color="#663399"><strong>Ongoing work.</strong></font></em>
+<em><font color="#663399"><strong>IEEE/CVF International Conference on Computer Vision (ICCV).</strong></font></em>
 
 [**Project**](https://neurips.cc/virtual/2024/poster/92965)/[**Arxiv**](https://neurips.cc/virtual/2024/poster/92965)/[**Code**](https://neurips.cc/virtual/2024/poster/92965)
 </div>
