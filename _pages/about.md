@@ -21,13 +21,13 @@ Currently, I am a second-year Ph.D. student of the joint program between [Artifi
 My research interests include Computer Vision, Semantic Segmentation, Un-/Semi-supervised Learning from 2019, and AI Generated Content (AIGC) and Multimodal Representation Learning from 2023.
 
 # 🔥 News
-- *2025.10*: &nbsp;🎉🎉 I was invited to participate in the 3rd Half-Marathon of Westlake University (**1h29m**) and [broke the record of EIT](https://raw.githubusercontent.com/wangyunnan/wangyunnan.github.io/refs/heads/main/images/marathon2.jpg).
+- *2025.10*: &nbsp;🎉🎉 I was invited to participate in the 3rd Westlake University Half-Marathon (**1h29m**) and [broke the record of EIT](https://raw.githubusercontent.com/wangyunnan/wangyunnan.github.io/refs/heads/main/images/marathon2.jpg).
 - *2025.10*: &nbsp;🎉🎉 I was awarded the <span style="color:red">**National Scholarship**</span> for Doctoral Students (*Top 3%* in SJTU)~
 - *2025.07*: &nbsp;🎉🎉 One paper was accepted by TCSVT (<span style="color:red">**JCR Q1**</span>) and ACM MM Industry Demonstration (<span style="color:red">**CCF-A**</span>)~
 - *2025.06*: &nbsp;🎉🎉 One paper was accepted by ICCV (<span style="color:red">**CCF-A**</span>)~
 - *2025.03*: &nbsp;🎉🎉 One paper was accepted by KBS (<span style="color:red">**JCR Q1**</span>)~
 - *2024.12*: &nbsp;🎉🎉 One paper was accepted by TMI (<span style="color:red">**Top Journal in Medical Imaging, CCF-B**</span>)~
-- *2024.10*: &nbsp;🎉🎉 I was invited to participate in the 2nd Half-Marathon of Westlake University (**1h35m**), [competing with Yigong Shi (施一公)](https://raw.githubusercontent.com/wangyunnan/wangyunnan.github.io/refs/heads/main/images/marathon1.jpg).
+- *2024.10*: &nbsp;🎉🎉 I was invited to participate in the 2nd Westlake University Half-Marathon (**1h35m**), [competing with Yigong Shi (施一公)](https://raw.githubusercontent.com/wangyunnan/wangyunnan.github.io/refs/heads/main/images/marathon1.jpg).
 - *2024.09*: &nbsp;🎉🎉 Two papers (with one **Spotlight**) were accepted by NeurlPS 2024 (<span style="color:red">**CCF-A**</span>)~
 - *2024.08*: &nbsp;🎉🎉 One paper was accepted by BIBM 2024 (<span style="color:red">**Top Conference in Bioinformatics, CCF-B**</span>)~
 - *2024.07*: &nbsp;🎉🎉 I joined Interaction Intelligence Lab, [Ant Research](https://www.antgroup.com/en/technology/) as a research intern.
