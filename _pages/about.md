@@ -200,6 +200,7 @@ My research interests include Computer Vision, Semantic Segmentation, Un-/Semi-s
   * Supervisor: Dr. Xiang Li
 
 # 🎖 Honors and Awards
+- *2025.10* <span style="color:red">**National Scholarship**</span> for Doctoral  Students (*Top 3%* in SJTU)
 - *2023.03* Excellent Graduate of Shanghai (*Top 3%* in SJTU)
 - *2022.09* CETC Les <img src='./images/les_logo.jpg' style='height: 0.9em;'> Scholarship (SJTU)
 - *2021.10* <span style="color:red">**National Scholarship**</span> for Graduate Students (*Top 3%* in SJTU)
