@@ -21,7 +21,8 @@ Currently, I am a second-year Ph.D. student of the joint program between [Artifi
 My research interests include Computer Vision, Semantic Segmentation, Un-/Semi-supervised Learning from 2019, and AI Generated Content (AIGC) and Multimodal Representation Learning from 2023.
 
 # 🔥 News
-- *2025.07*: &nbsp;🎉🎉 One paper was accepted by TCSVT (<span style="color:red">**JCR Q1**</span>) and ACM MM Industry Demonstration (<span style="color:red">**CCF-A**</span>)  ~
+- *2025.10*: &nbsp;🎉🎉 I was awarded the <span style="color:red">**National Scholarship**</span> for Doctoral Students~
+- *2025.07*: &nbsp;🎉🎉 One paper was accepted by TCSVT (<span style="color:red">**JCR Q1**</span>) and ACM MM Industry Demonstration (<span style="color:red">**CCF-A**</span>)~
 - *2025.06*: &nbsp;🎉🎉 One paper was accepted by ICCV (<span style="color:red">**CCF-A**</span>)~
 - *2025.03*: &nbsp;🎉🎉 One paper was accepted by KBS (<span style="color:red">**JCR Q1**</span>)~
 - *2024.12*: &nbsp;🎉🎉 One paper was accepted by TMI (<span style="color:red">**Top Journal in Medical Imaging, CCF-B**</span>)~
