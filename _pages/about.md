@@ -27,7 +27,7 @@ My research interests include Computer Vision, Semantic Segmentation, Un-/Semi-s
 - *2025.06*: &nbsp;🎉🎉 One paper was accepted by ICCV (<span style="color:red">**CCF-A**</span>)~
 - *2025.03*: &nbsp;🎉🎉 One paper was accepted by KBS (<span style="color:red">**JCR Q1**</span>)~
 - *2024.12*: &nbsp;🎉🎉 One paper was accepted by TMI (<span style="color:red">**Top Journal in Medical Imaging, CCF-B**</span>)~
-- *2024.10*: &nbsp;🎉🎉 I was invited to participate in the 2nd Half-Marathon of Westlake University (**1h35m**) and [competed with Yigong Shi (施一公)](https://raw.githubusercontent.com/wangyunnan/wangyunnan.github.io/refs/heads/main/images/marathon1.jpg).
+- *2024.10*: &nbsp;🎉🎉 I was invited to participate in the 2nd Half-Marathon of Westlake University (**1h35m**), [competing with Yigong Shi (施一公)](https://raw.githubusercontent.com/wangyunnan/wangyunnan.github.io/refs/heads/main/images/marathon1.jpg).
 - *2024.09*: &nbsp;🎉🎉 Two papers (with one **Spotlight**) were accepted by NeurlPS 2024 (<span style="color:red">**CCF-A**</span>)~
 - *2024.08*: &nbsp;🎉🎉 One paper was accepted by BIBM 2024 (<span style="color:red">**Top Conference in Bioinformatics, CCF-B**</span>)~
 - *2024.07*: &nbsp;🎉🎉 I joined Interaction Intelligence Lab, [Ant Research](https://www.antgroup.com/en/technology/) as a research intern.
