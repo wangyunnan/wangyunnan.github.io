@@ -21,7 +21,7 @@ Currently, I am a second-year Ph.D. student of the joint program between [Artifi
 My research interests include Computer Vision, Semantic Segmentation, Un-/Semi-supervised Learning from 2019, and AI Generated Content (AIGC) and Multimodal Representation Learning from 2023.
 
 # 🔥 News
-- *2025.10*: &nbsp;🎉🎉 I was invited to participate in the 3rd Half-Marathon of Westlake University (**1h29m**).
+- *2025.10*: &nbsp;🎉🎉 I was invited to participate in the 3rd Half-Marathon of Westlake University (**1h29m**) and broke the record of EIT.
 - *2025.10*: &nbsp;🎉🎉 I was awarded the <span style="color:red">**National Scholarship**</span> for Doctoral Students (*Top 3%* in SJTU)~
 - *2025.07*: &nbsp;🎉🎉 One paper was accepted by TCSVT (<span style="color:red">**JCR Q1**</span>) and ACM MM Industry Demonstration (<span style="color:red">**CCF-A**</span>)~
 - *2025.06*: &nbsp;🎉🎉 One paper was accepted by ICCV (<span style="color:red">**CCF-A**</span>)~
