@@ -41,7 +41,7 @@ My research interests include Computer Vision, Semantic Segmentation, Un-/Semi-s
 
 
 # 📝 Publications 
-**Equal contribution**$^\star$; **Corresponding author**$^\dagger$; **Project lead**$^\ddagger$
+$^\star$**Equal contribution**; $^\dagger$**Corresponding author**; $^\ddagger$**Project lead**
 
 <div class='paper-box'><div class='paper-box-image'><div><div class="badge">NeurlPS 2024</div><img src='images/nips-disco.png' alt="sym" width="80%"></div></div>
 <div class='paper-box-text' markdown="1">
