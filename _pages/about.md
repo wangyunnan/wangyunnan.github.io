@@ -178,7 +178,7 @@ My research interests include Computer Vision, Semantic Segmentation, Un-/Semi-s
 
 **Vision-Centric Activation and Coordination for Multimodal Large Language Models**
 
-<span style="color:#1772d0">Zequn Zhang$^\star$, Yun Jiang$^\star$, **Yunnan Wang**, Baao Xie, Wenyao Zhang, Yuhang Li, Zhen Chen, Xin Jin, Wenjun Zeng$^\dagger$</span>
+<span style="color:#1772d0">Yunnan Wang$^\star$, Fan Lu$^\star$, Kecheng Zheng, Ziyuan Huang, Ziqiang Li, Wenjun Zeng, Xin Jin$^\dagger$</span>
 
 <em><font color="#663399"><strong>Under Review.</strong></font></em>
 
