@@ -159,7 +159,7 @@ $^\star$**Equal contribution**; $^\dagger$**Corresponding author**; $^\ddagger$*
 
 
 
-<div class='paper-box'><div class='paper-box-image'><div><div class="badge">IROS 2022</div><img src='images/iros22.png' alt="sym" width="80%"></div></div>
+<div class='paper-box'><div class='paper-box-image'><div><div class="badge">IROS 2022</div><img src='images/iros22-bkd.png' alt="sym" width="80%"></div></div>
 <div class='paper-box-text' markdown="1">
 
 **Bilateral Knowledge Distillation for Unsupervised Domain Adaptation of Semantic Segmentation**
