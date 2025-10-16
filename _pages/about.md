@@ -173,6 +173,19 @@ My research interests include Computer Vision, Semantic Segmentation, Un-/Semi-s
 </div>
 </div>
 
+<div class='paper-box'><div class='paper-box-image'><div><div class="badge">TMI 2024</div><img src='images/iclr26.png' alt="sym" width="80%"></div></div>
+<div class='paper-box-text' markdown="1">
+
+**Vision-Centric Activation and Coordination for Multimodal Large Language Models**
+
+<span style="color:#1772d0">Zequn Zhang$^\star$, Yun Jiang$^\star$, **Yunnan Wang**, Baao Xie, Wenyao Zhang, Yuhang Li, Zhen Chen, Xin Jin, Wenjun Zeng$^\dagger$</span>
+
+<em><font color="#663399"><strong>Under Review.</strong></font></em>
+
+[**Project**](https://neurips.cc/virtual/2024/poster/92965)/[**Arxiv**](https://neurips.cc/virtual/2024/poster/92965)/[**Code**](https://neurips.cc/virtual/2024/poster/92965)
+</div>
+</div>
+
 
 
 # 📖 Educations
