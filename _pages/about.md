@@ -173,7 +173,7 @@ My research interests include Computer Vision, Semantic Segmentation, Un-/Semi-s
 </div>
 </div>
 
-<div class='paper-box'><div class='paper-box-image'><div><div class="badge">TMI 2024</div><img src='images/iclr26.png' alt="sym" width="80%"></div></div>
+<div class='paper-box'><div class='paper-box-image'><div><div class="badge">Preprint</div><img src='images/iclr26.png' alt="sym" width="80%"></div></div>
 <div class='paper-box-text' markdown="1">
 
 **Vision-Centric Activation and Coordination for Multimodal Large Language Models**
