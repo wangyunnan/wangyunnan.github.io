@@ -41,7 +41,7 @@ My research interests include Computer Vision, Semantic Segmentation, Un-/Semi-s
 
 
 # 📝 Publications 
-**Equal contribution**$^\star$; **Corresponding author**$^\dagger$
+**Equal contribution**$^\star$; **Corresponding author**$^\dagger$; **Project lead**$^\ddagger$
 
 <div class='paper-box'><div class='paper-box-image'><div><div class="badge">NeurlPS 2024</div><img src='images/nips-disco.png' alt="sym" width="80%"></div></div>
 <div class='paper-box-text' markdown="1">
@@ -181,7 +181,7 @@ My research interests include Computer Vision, Semantic Segmentation, Un-/Semi-s
 
 **Vision-Centric Activation and Coordination for Multimodal Large Language Models**
 
-<span style="color:#1772d0">Yunnan Wang$^\star$, Fan Lu$^\star$, Kecheng Zheng, Ziyuan Huang, Ziqiang Li, Wenjun Zeng, Xin Jin$^\dagger$</span>
+<span style="color:#1772d0">Yunnan Wang$^\star$, Fan Lu$^\star$, Kecheng Zheng*$^\ddagger$, Ziyuan Huang, Ziqiang Li, Wenjun Zeng, Xin Jin$^\dagger$</span>
 
 <em><font color="#663399"><strong>Under Review.</strong></font></em>
 
