@@ -51,7 +51,7 @@ $^\star$**Equal contribution**; $^\dagger$**Corresponding author**; $^\ddagger$*
 <span style="color:#1772d0">
 Wei Wu$^\star$, Fan Lu$^\star$, Yunnan Wang$^\star$, Shuai Yang$^\star$, Shi Liu$^\star$, Fangjing Wang$^\star$, Qian Zhu, He Sun, Yong Wang, Shuailei Ma, Yiyu Ren, Kejia Zhang, Hui Yu, Jingmei Zhao, Shuai Zhou, Zhenqi Qiu, Houlong Xiong, Ziyu Wang, Zechen Wang, Ran Cheng, Yong-Lu Li, Yongtao Huang, Xing Zhu, Yujun Shen, Kecheng Zheng$^\ddagger$</span>
 
-<em><font color="#663399"><strong>Under Review.</strong></font></em>
+<em><font color="#663399"><strong>Technical Report.</strong></font></em>
 
 [**Project**](https://technology.robbyant.com/lingbot-vla)/[**Arxiv**](https://arxiv.org/abs/2601.18692)/[**Code**](https://github.com/Robbyant/lingbot-vla)
 </div>
