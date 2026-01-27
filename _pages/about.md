@@ -44,6 +44,17 @@ My research interests include Computer Vision, Semantic Segmentation, Un-/Semi-s
 # 📝 Publications 
 $^\star$**Equal contribution**; $^\dagger$**Corresponding author**; $^\ddagger$**Project lead**
 
+**A Pragmatic VLA Foundation Model**
+
+<span style="color:#1772d0">
+Wei Wu$^\star$, Fan Lu$^\star$, Yunnan Wang$^\star$, Shuai Yang$^\star$, Shi Liu$^\star$, Fangjing Wang$^\star$, Qian Zhu, He Sun, Yong Wang, Shuailei Ma, Yiyu Ren, Kejia Zhang, Hui Yu, Jingmei Zhao, Shuai Zhou, Zhenqi Qiu, Houlong Xiong, Ziyu Wang, Zechen Wang, Ran Cheng, Yong-Lu Li, Yongtao Huang, Xing Zhu, Yujun Shen, Kecheng Zheng$^\ddagger$</span>
+
+<em><font color="#663399"><strong>Under Review.</strong></font></em>
+
+[**Project**](https://technology.robbyant.com/lingbot-vla)/[**Arxiv**](https://arxiv.org/abs/2601.18692)/[**Code**](https://github.com/Robbyant/lingbot-vla)
+</div>
+</div>
+
 <div class='paper-box'><div class='paper-box-image'><div><div class="badge">NeurlPS 2024</div><img src='images/nips-disco.png' alt="sym" width="80%"></div></div>
 <div class='paper-box-text' markdown="1">
 
