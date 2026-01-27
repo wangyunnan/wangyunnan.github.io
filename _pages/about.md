@@ -44,6 +44,8 @@ My research interests include Computer Vision, Semantic Segmentation, Un-/Semi-s
 # 📝 Publications 
 $^\star$**Equal contribution**; $^\dagger$**Corresponding author**; $^\ddagger$**Project lead**
 
+<div class='paper-box'><div class='paper-box-image'><div><div class="badge">NeurlPS 2024</div><img src='images/lingbot-vla.png' alt="sym" width="80%"></div></div>
+<div class='paper-box-text' markdown="1">
 **A Pragmatic VLA Foundation Model**
 
 <span style="color:#1772d0">
