@@ -50,7 +50,7 @@ $^\star$**Equal contribution**; $^\dagger$**Corresponding author**; $^\ddagger$*
 **A Pragmatic VLA Foundation Model**
 
 <span style="color:#1772d0">
-Wei Wu$^\star$, Fan Lu$^\star$, Yunnan Wang$^\star$, Shuai Yang$^\star$, Shi Liu$^\star$, Fangjing Wang$^\star$, Qian Zhu, He Sun, Yong Wang, Shuailei Ma, Yiyu Ren, Kejia Zhang, Hui Yu, Jingmei Zhao, Shuai Zhou, Zhenqi Qiu, Houlong Xiong, Ziyu Wang, Zechen Wang, Ran Cheng, Yong-Lu Li, Yongtao Huang, Xing Zhu, Yujun Shen, Kecheng Zheng$^\ddagger$</span>
+Wei Wu$^\star$, Fan Lu$^\star$, **Yunnan Wang**$^\star$, Shuai Yang$^\star$, Shi Liu$^\star$, Fangjing Wang$^\star$, Qian Zhu, He Sun, Yong Wang, Shuailei Ma, Yiyu Ren, Kejia Zhang, Hui Yu, Jingmei Zhao, Shuai Zhou, Zhenqi Qiu, Houlong Xiong, Ziyu Wang, Zechen Wang, Ran Cheng, Yong-Lu Li, Yongtao Huang, Xing Zhu, Yujun Shen, Kecheng Zheng$^\ddagger$</span>
 
 <em><font color="#663399"><strong>Technical Report.</strong></font></em>
 
@@ -63,7 +63,7 @@ Wei Wu$^\star$, Fan Lu$^\star$, Yunnan Wang$^\star$, Shuai Yang$^\star$, Shi Liu
 **SceneScribe-1M: A Large-Scale Video Dataset with Comprehensive Geometric and Semantic Annotations**
 
 <span style="color:#1772d0">
-Yunnan Wang$^\star$, Kecheng Zheng$^\star$, Jianyuan Wang, Minghao Chen, David Novotny, Christian Rupprecht, Yinghao Xu, Xing Zhu, Wenjun Zeng, Xin Jin, Yujun Shen$^\ddagger$</span>
+**Yunnan Wang**$^\star$, Kecheng Zheng$^\star$, Jianyuan Wang, Minghao Chen, David Novotny, Christian Rupprecht, Yinghao Xu, Xing Zhu, Wenjun Zeng, Xin Jin, Yujun Shen$^\ddagger$</span>
 
 <em><font color="#663399"><strong>IEEE/CVF Computer Vision and Pattern Recognition Conference (CVPR 2026).</strong></font></em>
 
