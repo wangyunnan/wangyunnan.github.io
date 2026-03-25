@@ -58,6 +58,19 @@ Wei Wu$^\star$, Fan Lu$^\star$, Yunnan Wang$^\star$, Shuai Yang$^\star$, Shi Liu
 </div>
 </div>
 
+<div class='paper-box'><div class='paper-box-image'><div><div class="badge">CVPR 2026</div><img src='images/cvpr-scenescribe1m.png' alt="sym" width="80%"></div></div>
+<div class='paper-box-text' markdown="1">
+**SceneScribe-1M: A Large-Scale Video Dataset with Comprehensive Geometric and Semantic Annotations**
+
+<span style="color:#1772d0">
+Yunnan Wang$^\star$, Kecheng Zheng$^\star$, Jianyuan Wang, Minghao Chen, David Novotny, Christian Rupprecht, Yinghao Xu, Xing Zhu, Wenjun Zeng, Xin Jin, Yujun Shen$^\ddagger$</span>
+
+<em><font color="#663399"><strong>IEEE/CVF Computer Vision and Pattern Recognition Conference (CVPR 2026).</strong></font></em>
+
+[**Project**](https://technology.robbyant.com/lingbot-vla)/[**Arxiv**](https://arxiv.org/abs/2601.18692)/[**Code**](https://github.com/Robbyant/lingbot-vla)
+</div>
+</div>
+
 <div class='paper-box'><div class='paper-box-image'><div><div class="badge">NeurlPS 2024</div><img src='images/nips-disco.png' alt="sym" width="80%"></div></div>
 <div class='paper-box-text' markdown="1">
 
