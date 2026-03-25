@@ -154,7 +154,7 @@ permalink: /SceneScribe-1M/
     <div class="hero-body">
       <div class="columns is-centered">
         <div class="column is-5"> <!-- Adjust the number after 'is' to change the image size -->
-          <img id="teaser" height="30%" src="./projects/diswm/overview.png" alt="overview">
+          <img id="teaser" height="30%" src="./projects/scenescribe1m/overview.png" alt="overview">
           <h2 class="caption is-size-5 subtitle has-text-centered">
             Overview of our proposed framework. The key idea is to leverage distracting videos for semantic knowledge transfer, enabling the downstream agent to improve sample efficiency on unseen tasks.
           </h2>
@@ -170,7 +170,7 @@ permalink: /SceneScribe-1M/
           <h2 class="title is-2">Abstract</h2>
           <div class="content has-text-justified">
             <p>
-               Training visual reinforcement learning (RL) in practical scenarios presents a significant challenge, <i>i.e.,</i> RL agents suffer from low sample efficiency in environments with variations. While various approaches have attempted to alleviate this issue by disentangled representation learning, these methods usually start learning from scratch without prior knowledge of the world. This paper, in contrast, tries to learn and understand underlying semantic variations from distracting videos via offline-to-online latent distillation and flexible disentanglement constraints. To enable effective cross-domain semantic knowledge transfer, we introduce an interpretable model-based RL framework, dubbed Disentangled World Models (DisWM). Specifically, we pretrain the action-free video prediction model offline with disentanglement regularization to extract semantic knowledge from distracting videos. The disentanglement capability of the pretrained model is then transferred to the world model through latent distillation. For finetuning in the online environment, we exploit the knowledge from the pretrained model and introduce a disentanglement constraint to the world model. During the adaptation phase, the incorporation of actions and rewards from online environment interactions enriches the diversity of the data, which in turn strengthens the disentangled representation learning. Experimental results validate the superiority of our approach on various benchmarks. 
+              The convergence of 3D geometric perception and video synthesis has created an unprecedented demand for large-scale video data that is rich in both semantic and spatio-temporal information. While existing datasets have advanced either 3D understanding or video generation, a significant gap remains in providing a unified resource that supports both domains at scale. To bridge this chasm, we introduce SceneScribe-1M, a new large-scale, multi-modal video dataset. It comprises one million in-the-wild videos, each meticulously annotated with detailed textual descriptions, precise camera parameters, dense depth maps, and consistent 3D point tracks. We demonstrate the versatility and value of SceneScribe-1M by establishing benchmarks across a wide array of downstream tasks, including monocular depth estimation, scene reconstruction, and dynamic point tracking, as well as generative tasks such as text-to-video synthesis, with or without camera control. By open-sourcing SceneScribe-1M, we aim to provide a comprehensive benchmark and a catalyst for research, fostering the development of models that can both perceive the dynamic 3D world and generate controllable, realistic video content.       
             </p>
           </div>
         </div>
@@ -275,11 +275,11 @@ permalink: /SceneScribe-1M/
     <div class="columns is-centered">
       <div class="column is-two-thirds has-text-justified">
         <h2 class="title">BibTeX</h2>
-        <pre><code>@inproceedings{wang2025disentangled,
-title={Disentangled World Models: Learning to Transfer Semantic Knowledge from Distracting Videos for Reinforcement Learning}, 
-author={Qi Wang and Zhipeng Zhang and Baao Xie and Xin Jin and Yunbo Wang and Shiyu Wang and Liaomo Zheng and Xiaokang Yang and Wenjun Zeng},
-booktitle={ICCV},
-year={2025}
+        <pre><code>@inproceedings{wang2026scenescribe1m,
+title={SceneScribe-1M: A Large-Scale Video Dataset with Comprehensive Geometric and Semantic Annotations}, 
+author={Yunnan Wang and Kecheng Zheng and Jianyuan Wang and Minghao Chen and David Novotny and Christian Rupprecht and Yinghao Xu and Xing Zhu and Wenjun Zeng and Xin Jin and Yujun Shen},
+booktitle={CVPR},
+year={2026}
 }</code></pre>
       </div>
     </div>
