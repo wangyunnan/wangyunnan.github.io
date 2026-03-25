@@ -67,7 +67,7 @@ Wei Wu$^\star$, Fan Lu$^\star$, **Yunnan Wang**$^\star$, Shuai Yang$^\star$, Shi
 
 <em><font color="#663399"><strong>IEEE/CVF Computer Vision and Pattern Recognition Conference (CVPR 2026).</strong></font></em>
 
-[**Project**](https://technology.robbyant.com/lingbot-vla)/[**Arxiv**](https://arxiv.org/abs/2601.18692)/[**Code**](https://github.com/Robbyant/lingbot-vla)
+[**Project**](https://wangyunnan.github.io/scenescribe1m)/[**Arxiv**](https://arxiv.org/abs/2601.18692)/[**Code**](https://github.com/Robbyant/lingbot-vla)
 </div>
 </div>
 
