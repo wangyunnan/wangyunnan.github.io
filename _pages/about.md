@@ -16,12 +16,12 @@ redirect_from:
 {% assign url = gsDataBaseUrl | append: "google-scholar-stats/gs_data_shieldsio.json" %}
 
 
-Currently, I am a thrid-year Ph.D. student of the joint program between [Artificial Intelligence Institute](https://ai.sjtu.edu.cn/), Shanghai Jiao Tong University (supervised by Prof. [Xiaokang Yang (杨小康)](https://scholar.google.com.hk/citations?hl=zh-CN&user=yDEavdMAAAAJ) and [Eastern Institute for Advanced Study](https://www.eitech.edu.cn/?lang=en/) (co-supervised by Prof. [Kevin Zeng (曾文军)](https://scholar.google.com.hk/citations?hl=zh-CN&user=_cUfvYQAAAAJ) and Prof. [Xin Jin (金鑫)](https://scholar.google.com/citations?user=byaSC-kAAAAJ&hl=zh-CN)). Meanwhile, I am also a research intern at [Ant Research](https://www.antgroup.com/en/technology/) <img src='./images/alipay_logo.png' style='height: 0.9em;'> (supervised by Dr. [Kecheng Zheng (郑可成)](https://scholar.google.com/citations?user=hMDQifQAAAAJ)). Before that, I received my M.S. degree from Shanghai Jiao Tong University in 2023 (supervised by Prof. [Jianxun Li (李建勋)](https://www.researchgate.net/profile/Li-Jianxun/)) and my B.S. degree from Northwestern Polytechnical University in 2020 (supervised by Prof. [Jianhua He (何建华)](https://teacher.nwpu.edu.cn/en/j82zf0vfmf50835d3461429868736702.html)). Besides, I also had a great time interning at 2012 Lab of [Huawei](https://www.huawei.com/en/) <img src='./images/huawei_logo.png' style='height: 1em;'> and Applied Machine Learning of [ByteDance](https://www.bytedance.com/en/) <img src='./images/bytedance_logo.png' style='height: 0.85em;'>.
+Currently, I am a final-year Ph.D. student of the joint program between [Artificial Intelligence Institute](https://ai.sjtu.edu.cn/), Shanghai Jiao Tong University (supervised by Prof. [Xiaokang Yang (杨小康)](https://scholar.google.com.hk/citations?hl=zh-CN&user=yDEavdMAAAAJ) and [Eastern Institute for Advanced Study](https://www.eitech.edu.cn/?lang=en/) (co-supervised by Prof. [Kevin Zeng (曾文军)](https://scholar.google.com.hk/citations?hl=zh-CN&user=_cUfvYQAAAAJ) and Prof. [Xin Jin (金鑫)](https://scholar.google.com/citations?user=byaSC-kAAAAJ&hl=zh-CN)). Meanwhile, I am also a research intern at [Ant Research](https://www.antgroup.com/en/technology/) <img src='./images/alipay_logo.png' style='height: 0.9em;'> (supervised by Dr. [Kecheng Zheng (郑可成)](https://scholar.google.com/citations?user=hMDQifQAAAAJ)). Before that, I received my M.S. degree from Shanghai Jiao Tong University in 2023 (supervised by Prof. [Jianxun Li (李建勋)](https://www.researchgate.net/profile/Li-Jianxun/)) and my B.S. degree from Northwestern Polytechnical University in 2020 (supervised by Prof. [Jianhua He (何建华)](https://teacher.nwpu.edu.cn/en/j82zf0vfmf50835d3461429868736702.html)). Besides, I also had a great time interning at 2012 Lab of [Huawei](https://www.huawei.com/en/) <img src='./images/huawei_logo.png' style='height: 1em;'> and Applied Machine Learning of [ByteDance](https://www.bytedance.com/en/) <img src='./images/bytedance_logo.png' style='height: 0.85em;'>.
 
 My research interests include Computer Vision, Semantic Segmentation, Un-/Semi-supervised Learning from 2019, and AI Generated Content (AIGC) and Multimodal Representation Learning from 2023.
 
 # 🔥 News
-- *2026.02*: &nbsp;🎉🎉 One paper was accepted by CVPR 2026 (<span style="color:red">**CCF-A**</span>)~
+- *2026.02*: &nbsp;🎉🎉 One paper was accepted by CVPR 2026 (<span style="color:red">**CCF-A, Hightlight**</span>)~
 - *2026.01*: &nbsp;🎉🎉 We are excited to introduce [LingBot-VLA](https://technology.robbyant.com/lingbot-vla), a pragmatic Vision-Language-Action foundation model.
 - *2025.10*: &nbsp;🎉🎉 I was invited to participate in the 3rd Westlake University Half-Marathon (**1h29m**) and [broke the record of EIT](https://raw.githubusercontent.com/wangyunnan/wangyunnan.github.io/refs/heads/main/images/marathon2.jpg).
 - *2025.10*: &nbsp;🎉🎉 I was awarded the <span style="color:red">**National Scholarship**</span> for Doctoral Students (*Top 3%* in SJTU)~
@@ -30,7 +30,7 @@ My research interests include Computer Vision, Semantic Segmentation, Un-/Semi-s
 - *2025.03*: &nbsp;🎉🎉 One paper was accepted by KBS 2025 (<span style="color:red">**JCR Q1**</span>)~
 - *2024.12*: &nbsp;🎉🎉 One paper was accepted by TMI 2024 (<span style="color:red">**Top Journal in Medical Imaging, CCF-B**</span>)~
 - *2024.10*: &nbsp;🎉🎉 I was invited to participate in the 2nd Westlake University Half-Marathon (**1h35m**), [competing with Yigong Shi (施一公)](https://raw.githubusercontent.com/wangyunnan/wangyunnan.github.io/refs/heads/main/images/marathon1.jpg).
-- *2024.09*: &nbsp;🎉🎉 Two papers (with one **Spotlight**) were accepted by NeurlPS 2024 (<span style="color:red">**CCF-A**</span>)~
+- *2024.09*: &nbsp;🎉🎉 Two papers (with one <span style="color:red">**Spotlight**</span>) were accepted by NeurlPS 2024 (<span style="color:red">**CCF-A**</span>)~
 - *2024.08*: &nbsp;🎉🎉 One paper was accepted by BIBM 2024 (<span style="color:red">**Top Conference in Bioinformatics, CCF-B**</span>)~
 - *2024.07*: &nbsp;🎉🎉 I joined Interaction Intelligence Lab, [Ant Research](https://www.antgroup.com/en/technology/) as a research intern.
 - *2024.04*: &nbsp;🎉🎉 Congratulations to Prof. Kevin Zeng on [his election](https://www.eitech.edu.cn/?p=2500) as the **International Fellow of the Canadian Academy of Engineering**.
@@ -65,7 +65,8 @@ Wei Wu$^\star$, Fan Lu$^\star$, **Yunnan Wang**$^\star$, Shuai Yang$^\star$, Shi
 <span style="color:#1772d0">
 **Yunnan Wang**$^\star$, Kecheng Zheng$^\star$, Jianyuan Wang, Minghao Chen, David Novotny, Christian Rupprecht, Yinghao Xu, Xing Zhu, Wenjun Zeng, Xin Jin, Yujun Shen$^\ddagger$</span>
 
-<em><font color="#663399"><strong>IEEE/CVF Computer Vision and Pattern Recognition Conference (CVPR 2026).</strong></font></em>
+<em><font color="#663399"><strong>IEEE/CVF Computer Vision and Pattern Recognition Conference (CVPR 2026).</strong></font></em> 
+<em><font color="red"><strong>Highlight.</strong></font></em>
 
 [**Project**](https://wangyunnan.github.io/SceneScribe-1M)/[**Arxiv**](https://arxiv.org/abs/2601.18692)/[**Code**](https://github.com/Robbyant/lingbot-vla)
 </div>
