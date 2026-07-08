@@ -31,6 +31,7 @@ My research interests include Computer Vision, Semantic Segmentation, Un-/Semi-s
 
 
 # 🔥 News
+- *2026.07*: &nbsp;🎉🎉 We released [LingBot-VLA 2.0](https://technology.robbyant.com/lingbot-vla-v2) technical report and pre-trained weights.
 - *2026.02*: &nbsp;🎉🎉 One paper was accepted by CVPR 2026 (<span style="color:red">**CCF-A, Hightlight**</span>)~
 - *2026.01*: &nbsp;🎉🎉 We are excited to introduce [LingBot-VLA](https://technology.robbyant.com/lingbot-vla), a pragmatic Vision-Language-Action foundation model.
 - *2025.10*: &nbsp;🎉🎉 I was invited to participate in the 3rd Westlake University Half-Marathon (**1h29m**) and [broke the record of EIT](https://raw.githubusercontent.com/wangyunnan/wangyunnan.github.io/refs/heads/main/images/marathon2.jpg).
@@ -61,6 +62,15 @@ $^\star$**Equal contribution**; $^\dagger$**Corresponding author**; $^\ddagger$*
 
 <span style="color:#1772d0">
 Wei Wu$^\star$, Fan Lu$^\star$, **Yunnan Wang**$^\star$, Shuai Yang$^\star$, Shi Liu$^\star$, Fangjing Wang$^\star$, Qian Zhu, He Sun, Yong Wang, Shuailei Ma, Yiyu Ren, Kejia Zhang, Hui Yu, Jingmei Zhao, Shuai Zhou, Zhenqi Qiu, Houlong Xiong, Ziyu Wang, Zechen Wang, Ran Cheng, Yong-Lu Li, Yongtao Huang, Xing Zhu, Yujun Shen, Kecheng Zheng$^\ddagger$</span>
+
+<em><font color="#663399"><strong>Technical Report (Ant Group).</strong></font></em>
+
+<div class='paper-box'><div class='paper-box-image'><div><div class="badge">Technical Report</div><img src='images/lingbot-vla2.png' alt="sym" width="80%"></div></div>
+<div class='paper-box-text' markdown="1">
+**A Pragmatic VLA Foundation Model**
+
+<span style="color:#1772d0">
+Wei Wu$^\star$, Fangjing Wang$^\star$, Fan Lu, He Sun, Shi Liu, **Yunnan Wang**, Yibin Yan, Yong Wang, Shuailei Ma, Xinyang Wang, Yibin Liu, Shuai Yang, Tianxiang Zhou, Kejia Zhang, Lei Zhou, Cheng Su, Nan Xue, Bin Tan, Han Zhang, Youchao Zhang, Fei Liao, Xing Zhu, Yujun Shen, Kecheng Zheng$^\ddagger$</span>
 
 <em><font color="#663399"><strong>Technical Report (Ant Group).</strong></font></em>
 
