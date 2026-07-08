@@ -67,7 +67,7 @@ Wei Wu$^\star$, Fan Lu$^\star$, **Yunnan Wang**$^\star$, Shuai Yang$^\star$, Shi
 
 <div class='paper-box'><div class='paper-box-image'><div><div class="badge">Technical Report</div><img src='images/lingbot-vla2.png' alt="sym" width="80%"></div></div>
 <div class='paper-box-text' markdown="1">
-**A Pragmatic VLA Foundation Model**
+**From Foundation to Application: Improving VLA Models in Practice**
 
 <span style="color:#1772d0">
 Wei Wu$^\star$, Fangjing Wang$^\star$, Fan Lu, He Sun, Shi Liu, **Yunnan Wang**, Yibin Yan, Yong Wang, Shuailei Ma, Xinyang Wang, Yibin Liu, Shuai Yang, Tianxiang Zhou, Kejia Zhang, Lei Zhou, Cheng Su, Nan Xue, Bin Tan, Han Zhang, Youchao Zhang, Fei Liao, Xing Zhu, Yujun Shen, Kecheng Zheng$^\ddagger$</span>
