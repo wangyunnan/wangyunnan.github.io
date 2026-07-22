@@ -65,6 +65,10 @@ Wei Wu$^\star$, Fan Lu$^\star$, **Yunnan Wang**$^\star$, Shuai Yang$^\star$, Shi
 
 <em><font color="#663399"><strong>Technical Report (Ant Group).</strong></font></em>
 
+[**Project**](https://technology.robbyant.com/lingbot-vla)/[**Arxiv**](https://arxiv.org/abs/2601.18692)/[**Code**](https://github.com/Robbyant/lingbot-vla)
+</div>
+</div>
+
 <div class='paper-box'><div class='paper-box-image'><div><div class="badge">Technical Report</div><img src='images/lingbot-vla2.png' alt="sym" width="80%"></div></div>
 <div class='paper-box-text' markdown="1">
 **From Foundation to Application: Improving VLA Models in Practice**
@@ -74,7 +78,7 @@ Wei Wu$^\star$, Fangjing Wang$^\star$, Fan Lu, He Sun, Shi Liu, **Yunnan Wang**,
 
 <em><font color="#663399"><strong>Technical Report (Ant Group).</strong></font></em>
 
-[**Project**](https://technology.robbyant.com/lingbot-vla)/[**Arxiv**](https://arxiv.org/abs/2601.18692)/[**Code**](https://github.com/Robbyant/lingbot-vla)
+[**Project**](https://technology.robbyant.com/lingbot-vla-v2)/[**Arxiv**](https://arxiv.org/abs/2607.06403)/[**Code**](https://github.com/Robbyant/lingbot-vla-v2)
 </div>
 </div>
 
