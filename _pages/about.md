@@ -69,7 +69,7 @@ Wei Wu$^\star$, Fan Lu$^\star$, **Yunnan Wang**$^\star$, Shuai Yang$^\star$, Shi
 </div>
 </div>
 
-<div class='paper-box'><div class='paper-box-image'><div><div class="badge">Technical Report</div><img src='images/lingbot-vla2.png' alt="sym" width="80%"></div></div>
+<div class='paper-box'><div class='paper-box-image'><div><div class="badge">Technical Report</div><img src='images/lingbot_vla2.png' alt="sym" width="80%"></div></div>
 <div class='paper-box-text' markdown="1">
 **From Foundation to Application: Improving VLA Models in Practice**
 
